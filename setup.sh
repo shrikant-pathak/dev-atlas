@@ -2,21 +2,14 @@
 
 echo "🚀 Setting up DevAtlas..."
 
-# Root folders
+# GitHub
 mkdir -p .github/ISSUE_TEMPLATE
 mkdir -p .github/workflows
 
-mkdir -p assets/images
-mkdir -p assets/diagrams
-mkdir -p assets/icons
+# Assets
+mkdir -p assets/{images,diagrams,icons}
 
-mkdir -p books/book-01-foundations
-mkdir -p books/book-02-javascript
-mkdir -p books/book-03-frontend
-mkdir -p books/book-04-backend
-mkdir -p books/book-05-devops
-mkdir -p books/book-06-career
-
+# Top-level folders
 mkdir -p exercises
 mkdir -p projects
 mkdir -p cheatsheets
@@ -25,13 +18,33 @@ mkdir -p interview
 mkdir -p templates
 mkdir -p resources
 
+# Books
+mkdir -p books
+
+books=(
+"book-01-foundations"
+"book-02-javascript"
+"book-03-frontend"
+"book-04-backend"
+"book-05-devops"
+"book-06-career"
+)
+
+for book in "${books[@]}"; do
+    mkdir -p "books/$book"
+    touch "books/$book/README.md"
+done
+
+# First module
+mkdir -p books/book-01-foundations/module-01-computer-fundamentals/{images,assets}
+
+touch books/book-01-foundations/module-01-computer-fundamentals/README.md
+touch books/book-01-foundations/module-01-computer-fundamentals/exercises.md
+touch books/book-01-foundations/module-01-computer-fundamentals/quiz.md
+touch books/book-01-foundations/module-01-computer-fundamentals/cheatsheet.md
+touch books/book-01-foundations/module-01-computer-fundamentals/interview.md
+
 # Root files
-touch ROADMAP.md
-touch CHANGELOG.md
-touch CONTRIBUTING.md
-touch .gitignore
+touch ROADMAP.md CHANGELOG.md CONTRIBUTING.md .gitignore
 
-# First handbook chapter
-touch books/book-01-foundations/01-computer-fundamentals.md
-
-echo "✅ DevAtlas folder structure created successfully!"
+echo "✅ DevAtlas ready!"
