@@ -1,33 +1,19 @@
 # Module 01: Computer Fundamentals
 
-> **Book:** Foundations
->
-> **Module Number:** 01
->
-> **Difficulty:** ⭐ Beginner
->
-> **Estimated Study Time:** 6–8 Hours
->
-> **Estimated Practice Time:** 3–4 Hours
+> **Book:** Book 01 – Foundations  
+> **Module:** 01 – Computer Fundamentals  
+> **Level:** Beginner  
+> **Prerequisites:** None
 
 ---
 
-# Welcome
+# Module Overview
 
-Welcome to your first module in **DevAtlas**.
+Welcome to **Module 01: Computer Fundamentals**, the starting point of the DevAtlas learning journey.
 
-This module lays the foundation for everything you'll learn in web development.
+Every software engineer, web developer, system administrator, cybersecurity professional, and data scientist begins with a solid understanding of how computers work. This module introduces the fundamental concepts of computer systems, including hardware, software, operating systems, data representation, and the internal processes that enable computers to execute programs.
 
-Many beginners jump straight into HTML and CSS. While that can work, it often leaves important questions unanswered:
-
-- What exactly is a computer?
-- How does software run?
-- What happens when you click an icon?
-- What is memory?
-- Why do developers talk about CPUs, RAM, and storage?
-- What is an operating system?
-
-By understanding these concepts first, every topic you learn later will make more sense.
+By completing this module, you will build a strong foundation that will support your learning throughout the rest of the DevAtlas curriculum.
 
 ---
 
@@ -35,83 +21,135 @@ By understanding these concepts first, every topic you learn later will make mor
 
 By the end of this module, you will be able to:
 
-- Explain what a computer is.
-- Identify the major hardware components.
-- Distinguish between hardware and software.
-- Understand how data is represented.
-- Explain how programs execute.
-- Describe the role of an operating system.
-- Use common computing terminology with confidence.
+- Explain what a computer is and how it works.
+- Describe the evolution of computers across different generations.
+- Identify and compare different types of computers.
+- Understand the purpose of major hardware components.
+- Differentiate between system software and application software.
+- Explain the role of an operating system.
+- Describe the boot process of a computer.
+- Understand binary data and digital representation.
+- Explain how the CPU executes instructions.
+- Describe the roles of RAM, storage, the motherboard, and system buses.
 
 ---
 
 # Module Structure
 
-This module contains the following lessons:
+| Lesson | Topic |
+|---------|-------|
+| Lesson 01 | What Is a Computer? |
+| Lesson 02 | History and Evolution of Computers |
+| Lesson 03 | Types of Computers |
+| Lesson 04 | Computer Hardware Fundamentals |
+| Lesson 05 | Computer Software Fundamentals |
+| Lesson 06 | Operating Systems Basics |
+| Lesson 07 | How Computers Work Internally |
+| Lesson 08 | Computer Fundamentals Summary & Revision |
 
-| Lesson | Topic | Status |
-|--------|-------|--------|
-| 1 | What is a Computer? | ⬜ |
-| 2 | Hardware Components | ⬜ |
-| 3 | Software Fundamentals | ⬜ |
-| 4 | Data and Binary | ⬜ |
-| 5 | CPU, RAM and Storage | ⬜ |
-| 6 | Operating Systems | ⬜ |
-| 7 | Files and Folders | ⬜ |
-| 8 | Computer Boot Process | ⬜ |
-| 9 | Developer's Perspective | ⬜ |
-| 10 | Module Review | ⬜ |
+---
+
+# Skills You'll Gain
+
+After completing this module, you will be able to:
+
+- Understand the architecture of a computer system.
+- Identify common computer hardware components.
+- Explain how software interacts with hardware.
+- Understand the responsibilities of an operating system.
+- Read and interpret basic binary concepts.
+- Explain the complete flow of data through a computer.
+- Build a strong conceptual foundation for programming and system design.
+
+---
+
+# Estimated Learning Time
+
+| Activity | Estimated Time |
+|----------|---------------:|
+| Reading lessons | 8–10 hours |
+| Revision | 2 hours |
+| Quiz | 1 hour |
+| Exercises | 2–3 hours |
+| Total | 13–16 hours |
 
 ---
 
 # Prerequisites
 
-There are no prerequisites.
+No prior technical knowledge is required.
 
-If you can turn on a computer and use a web browser, you are ready.
-
----
-
-# Why This Module Matters
-
-Imagine trying to become a mechanic without knowing the difference between an engine and a tire.
-
-You might memorize repair steps, but you won't understand *why* they work.
-
-Programming is similar.
-
-When you know how computers work, debugging becomes easier, learning new technologies becomes faster, and technical documentation becomes much less intimidating.
+A willingness to learn and basic computer literacy are sufficient to complete this module successfully.
 
 ---
 
-# What You'll Build
+# Recommended Learning Path
 
-By the end of this module, you'll create:
+To get the most out of this module:
 
-- A diagram showing the major components of a computer.
-- A glossary of common computing terms.
-- A simple explanation of how a program runs.
-- A visual explanation of the computer boot process.
-
-These aren't software projects yet—they're knowledge-building exercises that prepare you for writing code.
+1. Study each lesson in order.
+2. Take notes while reading.
+3. Complete the quiz after finishing all lessons.
+4. Work through the exercises.
+5. Review the cheat sheet.
+6. Practice the interview questions.
+7. Revise Lesson 08 before moving to the next module.
 
 ---
 
-# Progress Tracker
+# Module Resources
 
-- [ ] Read every lesson
-- [ ] Complete all exercises
-- [ ] Finish the module quiz
-- [ ] Build the mini project
-- [ ] Review key concepts
-- [ ] Mark the module as complete
+This module includes the following supporting files:
+
+- `README.md`
+- `cheatsheet.md`
+- `quiz.md`
+- `exercises.md`
+- `interview.md`
+
+These resources are designed to reinforce your understanding and help you prepare for practical applications and interviews.
+
+---
+
+# Learning Outcomes
+
+After successfully completing Module 01, you should be able to:
+
+- Describe the fundamental components of a computer.
+- Explain the interaction between hardware and software.
+- Understand how an operating system manages resources.
+- Explain how data is represented and processed.
+- Trace the journey of data from input to output.
+- Understand the internal workflow of a modern computer system.
+
+These outcomes provide the foundation for all subsequent modules in DevAtlas.
 
 ---
 
 # What's Next?
 
-In Lesson 1, we'll answer a deceptively simple question:
+The next module will build on these fundamentals by introducing the next stage of your learning journey. The concepts covered in Module 01 will be referenced throughout the rest of the DevAtlas handbook, so make sure you are comfortable with them before moving forward.
 
-> **What is a computer?**
+---
 
-Understanding that single question is the first step toward becoming a software developer.
+# Completion Checklist
+
+- [ ] Lesson 01 completed
+- [ ] Lesson 02 completed
+- [ ] Lesson 03 completed
+- [ ] Lesson 04 completed
+- [ ] Lesson 05 completed
+- [ ] Lesson 06 completed
+- [ ] Lesson 07 completed
+- [ ] Lesson 08 completed
+- [ ] Cheat Sheet reviewed
+- [ ] Quiz completed
+- [ ] Exercises completed
+- [ ] Interview questions practiced
+
+---
+
+# Summary
+
+Module 01 lays the groundwork for everything that follows in DevAtlas. By understanding the fundamentals of computer systems, you'll be well prepared to explore programming, web development, databases, networking, operating systems, and other advanced topics with confidence.
+
