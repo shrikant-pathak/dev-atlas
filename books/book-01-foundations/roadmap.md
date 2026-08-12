@@ -1,29 +1,23 @@
 # 🗺️ Book 01 Roadmap – Foundations
-
 > Build the knowledge required before learning HTML, CSS, JavaScript, and modern web development.
 
 ---
 
 # 📚 Course Information
-
 **Difficulty:** Beginner
-
 **Prerequisites:** None
-
 **Estimated Duration:** 20–30 Hours
-
 **Projects:** 3+
-
 **Exercises:** 100+
-
 **Interview Questions:** 200+
 
 ---
 
 # Learning Path
-
 ```
 Computer Fundamentals
+        ↓
+Number Systems & Data Representation
         ↓
 Operating Systems
         ↓
@@ -42,41 +36,61 @@ Problem Solving
 Ready for HTML
 ```
 
+> **Note:** This path was reordered from the original plan. Number Systems & Data Representation was moved up to Module 02, directly after Computer Fundamentals, because understanding binary and data representation makes the later Operating Systems module easier to follow.
+
 ---
 
-# Module 01 — Computer Fundamentals
+# ✅ Module 01 — Computer Fundamentals
+**Status:** Complete
 
 ## Lessons
-
-- [ ] Lesson 01 – What is a Computer?
-- [ ] Lesson 02 – History of Computers
-- [ ] Lesson 03 – Types of Computers
-- [ ] Lesson 04 – Computer Components
-- [ ] Lesson 05 – Input & Output Devices
-- [ ] Lesson 06 – CPU
-- [ ] Lesson 07 – Memory (RAM & ROM)
-- [ ] Lesson 08 – Storage Devices
-- [ ] Lesson 09 – Motherboard
-- [ ] Lesson 10 – Binary Number System
-- [ ] Lesson 11 – Boot Process
-- [ ] Lesson 12 – Hardware vs Software
+- [x] Lesson 01 – What is a Computer?
+- [x] Lesson 02 – History and Evolution of Computers
+- [x] Lesson 03 – Types of Computers
+- [x] Lesson 04 – Computer Hardware Fundamentals
+- [x] Lesson 05 – Computer Software Fundamentals
+- [x] Lesson 06 – Operating Systems Basics
+- [x] Lesson 07 – How Computers Work Internally
+- [x] Lesson 08 – Computer Fundamentals Summary
 
 Deliverables:
-
-- Module README
-- Quiz
-- Exercises
-- Interview Questions
-- Cheatsheet
-- Mini Project
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
-# Module 02 — Operating Systems
+# ✅ Module 02 — Number Systems & Data Representation
+**Status:** Complete
 
-Lessons
+## Lessons
+- [x] Lesson 01 – Introduction to Number Systems
+- [x] Lesson 02 – Decimal, Binary, Octal & Hexadecimal
+- [x] Lesson 03 – Binary Arithmetic
+- [x] Lesson 04 – Number System Conversions
+- [x] Lesson 05 – Bits, Bytes and Memory Units
+- [x] Lesson 06 – Character Encoding (ASCII, Unicode, UTF-8)
+- [x] Lesson 07 – Data Representation in Computers
+- [x] Lesson 08 – Module Summary and Revision
 
-- [ ] Introduction
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
+
+---
+
+# 🔲 Module 03 — Operating Systems
+**Status:** Not started
+
+> Note: Module 01's Lesson 06 ("Operating Systems Basics") already introduces this topic briefly. This module should go deeper — file systems, processes/threads, and platform differences — rather than repeat that lesson.
+
+## Lessons
+- [ ] Introduction to Operating Systems
 - [ ] Windows
 - [ ] macOS
 - [ ] Linux
@@ -86,18 +100,18 @@ Lessons
 - [ ] User Interface
 
 Deliverables:
-
-- Quiz
-- Exercises
-- Interview Questions
-- Cheatsheet
+- [ ] Module README
+- [ ] Quiz
+- [ ] Exercises
+- [ ] Interview Questions
+- [ ] Cheatsheet
 
 ---
 
-# Module 03 — Internet Fundamentals
+# 🔲 Module 04 — Internet Fundamentals
+**Status:** Not started
 
-Lessons
-
+## Lessons
 - [ ] What is the Internet?
 - [ ] Network Basics
 - [ ] IP Address
@@ -108,18 +122,18 @@ Lessons
 - [ ] Client–Server Model
 
 Deliverables:
-
-- Quiz
-- Exercises
-- Interview Questions
-- Cheatsheet
+- [ ] Module README
+- [ ] Quiz
+- [ ] Exercises
+- [ ] Interview Questions
+- [ ] Cheatsheet
 
 ---
 
-# Module 04 — How the Web Works
+# 🔲 Module 05 — How the Web Works
+**Status:** Not started
 
-Lessons
-
+## Lessons
 - [ ] Browser
 - [ ] Rendering Engine
 - [ ] Request / Response
@@ -128,24 +142,38 @@ Lessons
 - [ ] Sessions
 - [ ] Cache
 
+Deliverables:
+- [ ] Module README
+- [ ] Quiz
+- [ ] Exercises
+- [ ] Interview Questions
+- [ ] Cheatsheet
+
 ---
 
-# Module 05 — Developer Environment
+# 🔲 Module 06 — Developer Environment
+**Status:** Not started
 
-Lessons
-
+## Lessons
 - [ ] Visual Studio Code
 - [ ] Extensions
 - [ ] Browser DevTools
 - [ ] Terminal
 - [ ] File Structure
 
+Deliverables:
+- [ ] Module README
+- [ ] Quiz
+- [ ] Exercises
+- [ ] Interview Questions
+- [ ] Cheatsheet
+
 ---
 
-# Module 06 — Command Line
+# 🔲 Module 07 — Command Line
+**Status:** Not started
 
-Lessons
-
+## Lessons
 - [ ] Navigation
 - [ ] Files
 - [ ] Directories
@@ -153,12 +181,19 @@ Lessons
 - [ ] Permissions
 - [ ] Package Managers
 
+Deliverables:
+- [ ] Module README
+- [ ] Quiz
+- [ ] Exercises
+- [ ] Interview Questions
+- [ ] Cheatsheet
+
 ---
 
-# Module 07 — Git Basics
+# 🔲 Module 08 — Git Basics
+**Status:** Not started
 
-Lessons
-
+## Lessons
 - [ ] Git
 - [ ] GitHub
 - [ ] Repository
@@ -167,32 +202,48 @@ Lessons
 - [ ] Merge
 - [ ] Pull Request
 
+Deliverables:
+- [ ] Module README
+- [ ] Quiz
+- [ ] Exercises
+- [ ] Interview Questions
+- [ ] Cheatsheet
+
 ---
 
-# Module 08 — Problem Solving
+# 🔲 Module 09 — Problem Solving
+**Status:** Not started
 
-Lessons
-
+## Lessons
 - [ ] Logic Building
 - [ ] Algorithms
 - [ ] Flowcharts
 - [ ] Pseudocode
 - [ ] Debugging
 
+Deliverables:
+- [ ] Module README
+- [ ] Quiz
+- [ ] Exercises
+- [ ] Interview Questions
+- [ ] Cheatsheet
+
 ---
 
 # Completion Checklist
-
-- [ ] Read all lessons
-- [ ] Complete all exercises
-- [ ] Complete all quizzes
+- [x] Module 01 — Computer Fundamentals
+- [x] Module 02 — Number Systems & Data Representation
+- [ ] Module 03 — Operating Systems
+- [ ] Module 04 — Internet Fundamentals
+- [ ] Module 05 — How the Web Works
+- [ ] Module 06 — Developer Environment
+- [ ] Module 07 — Command Line
+- [ ] Module 08 — Git Basics
+- [ ] Module 09 — Problem Solving
 - [ ] Finish mini projects
-- [ ] Review interview questions
-- [ ] Read cheatsheets
 - [ ] Complete final assessment
 
 ---
 
 # Next Book
-
-➡️ Book 02 – HTML
+➡️ Book 02 – HTML *(after Book 01's remaining modules are complete)*
