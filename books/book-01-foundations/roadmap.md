@@ -84,27 +84,25 @@ Deliverables:
 
 ---
 
-# 🔲 Module 03 — Operating Systems
-**Status:** Not started
-
-> Note: Module 01's Lesson 06 ("Operating Systems Basics") already introduces this topic briefly. This module should go deeper — file systems, processes/threads, and platform differences — rather than repeat that lesson.
+# ✅ Module 03 — Operating Systems
+**Status:** Complete
 
 ## Lessons
-- [ ] Introduction to Operating Systems
-- [ ] Windows
-- [ ] macOS
-- [ ] Linux
-- [ ] File Systems
-- [ ] Processes
-- [ ] Threads
-- [ ] User Interface
+- [x] Introduction to Operating Systems
+- [x] Windows
+- [x] macOS
+- [x] Linux
+- [x] File Systems
+- [x] Processes
+- [x] Threads
+- [x] User Interface
 
 Deliverables:
-- [ ] Module README
-- [ ] Quiz
-- [ ] Exercises
-- [ ] Interview Questions
-- [ ] Cheatsheet
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -233,7 +231,7 @@ Deliverables:
 # Completion Checklist
 - [x] Module 01 — Computer Fundamentals
 - [x] Module 02 — Number Systems & Data Representation
-- [ ] Module 03 — Operating Systems
+- [x] Module 03 — Operating Systems
 - [ ] Module 04 — Internet Fundamentals
 - [ ] Module 05 — How the Web Works
 - [ ] Module 06 — Developer Environment
