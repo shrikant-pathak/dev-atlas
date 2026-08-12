@@ -106,25 +106,25 @@ Deliverables:
 
 ---
 
-# 🔲 Module 04 — Internet Fundamentals
-**Status:** Not started
+# ✅ Module 04 — Internet Fundamentals
+**Status:** Complete
 
 ## Lessons
-- [ ] What is the Internet?
-- [ ] Network Basics
-- [ ] IP Address
-- [ ] DNS
-- [ ] HTTP
-- [ ] HTTPS
-- [ ] Ports
-- [ ] Client–Server Model
+- [x] What is the Internet?
+- [x] Network Basics
+- [x] IP Address
+- [x] DNS
+- [x] HTTP
+- [x] HTTPS
+- [x] Ports
+- [x] Client–Server Model
 
 Deliverables:
-- [ ] Module README
-- [ ] Quiz
-- [ ] Exercises
-- [ ] Interview Questions
-- [ ] Cheatsheet
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -232,7 +232,7 @@ Deliverables:
 - [x] Module 01 — Computer Fundamentals
 - [x] Module 02 — Number Systems & Data Representation
 - [x] Module 03 — Operating Systems
-- [ ] Module 04 — Internet Fundamentals
+- [x] Module 04 — Internet Fundamentals
 - [ ] Module 05 — How the Web Works
 - [ ] Module 06 — Developer Environment
 - [ ] Module 07 — Command Line
