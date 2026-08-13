@@ -188,7 +188,24 @@ Deliverables:
 
 ---
 
-Module 08 paste here
+# ✅ Module 08 — Git Basics
+**Status:** Complete
+
+## Lessons
+- [x] Git
+- [x] GitHub
+- [x] Repository
+- [x] Commit
+- [x] Branch
+- [x] Merge
+- [x] Pull Request
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -204,7 +221,7 @@ Module 08 paste here
 - [x] Module 05 — How the Web Works
 - [x] Module 06 — Developer Environment
 - [x] Module 07 — Command Line
-- [ ] Module 08 — Git Basics
+- [x] Module 08 — Git Basics
 - [ ] Module 09 — Problem Solving
 - [ ] Finish mini projects
 - [ ] Complete final assessment
