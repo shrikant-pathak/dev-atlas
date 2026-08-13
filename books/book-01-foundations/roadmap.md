@@ -128,7 +128,24 @@ Deliverables:
 
 ---
 
-module 05 paste here
+# ✅ Module 05 — How the Web Works
+**Status:** Complete
+
+## Lessons
+- [x] Browser
+- [x] Rendering Engine
+- [x] Request / Response
+- [x] Static vs Dynamic Websites
+- [x] Cookies
+- [x] Sessions
+- [x] Cache
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
