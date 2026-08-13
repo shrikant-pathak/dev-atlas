@@ -209,7 +209,22 @@ Deliverables:
 
 ---
 
-Module 08 paste here
+# ✅ Module 09 — Problem Solving
+**Status:** Complete
+
+## Lessons
+- [x] Logic Building
+- [x] Algorithms
+- [x] Flowcharts
+- [x] Pseudocode
+- [x] Debugging
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -222,7 +237,7 @@ Module 08 paste here
 - [x] Module 06 — Developer Environment
 - [x] Module 07 — Command Line
 - [x] Module 08 — Git Basics
-- [ ] Module 09 — Problem Solving
+- [x] Module 09 — Problem Solving
 - [ ] Finish mini projects
 - [ ] Complete final assessment
             
