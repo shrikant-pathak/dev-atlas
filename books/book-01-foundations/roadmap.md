@@ -208,7 +208,7 @@ Module 08 paste here
 - [ ] Module 09 — Problem Solving
 - [ ] Finish mini projects
 - [ ] Complete final assessment
-
+            
 ---
 
 # Next Book
