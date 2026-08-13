@@ -168,7 +168,23 @@ Deliverables:
 
 ---
 
-Module 07 paste here
+# ✅ Module 07 — Command Line
+**Status:** Complete
+
+## Lessons
+- [x] Navigation
+- [x] Files
+- [x] Directories
+- [x] Search
+- [x] Permissions
+- [x] Package Managers
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -187,7 +203,7 @@ Module 08 paste here
 - [x] Module 04 — Internet Fundamentals
 - [x] Module 05 — How the Web Works
 - [x] Module 06 — Developer Environment
-- [ ] Module 07 — Command Line
+- [x] Module 07 — Command Line
 - [ ] Module 08 — Git Basics
 - [ ] Module 09 — Problem Solving
 - [ ] Finish mini projects
