@@ -128,103 +128,23 @@ Deliverables:
 
 ---
 
-# 🔲 Module 05 — How the Web Works
-**Status:** Not started
-
-## Lessons
-- [ ] Browser
-- [ ] Rendering Engine
-- [ ] Request / Response
-- [ ] Static vs Dynamic Websites
-- [ ] Cookies
-- [ ] Sessions
-- [ ] Cache
-
-Deliverables:
-- [ ] Module README
-- [ ] Quiz
-- [ ] Exercises
-- [ ] Interview Questions
-- [ ] Cheatsheet
+module 05 paste here
 
 ---
 
-# 🔲 Module 06 — Developer Environment
-**Status:** Not started
-
-## Lessons
-- [ ] Visual Studio Code
-- [ ] Extensions
-- [ ] Browser DevTools
-- [ ] Terminal
-- [ ] File Structure
-
-Deliverables:
-- [ ] Module README
-- [ ] Quiz
-- [ ] Exercises
-- [ ] Interview Questions
-- [ ] Cheatsheet
+Module 06 paste here
 
 ---
 
-# 🔲 Module 07 — Command Line
-**Status:** Not started
-
-## Lessons
-- [ ] Navigation
-- [ ] Files
-- [ ] Directories
-- [ ] Search
-- [ ] Permissions
-- [ ] Package Managers
-
-Deliverables:
-- [ ] Module README
-- [ ] Quiz
-- [ ] Exercises
-- [ ] Interview Questions
-- [ ] Cheatsheet
+Module 07 paste here
 
 ---
 
-# 🔲 Module 08 — Git Basics
-**Status:** Not started
-
-## Lessons
-- [ ] Git
-- [ ] GitHub
-- [ ] Repository
-- [ ] Commit
-- [ ] Branch
-- [ ] Merge
-- [ ] Pull Request
-
-Deliverables:
-- [ ] Module README
-- [ ] Quiz
-- [ ] Exercises
-- [ ] Interview Questions
-- [ ] Cheatsheet
+Module 08 paste here
 
 ---
 
-# 🔲 Module 09 — Problem Solving
-**Status:** Not started
-
-## Lessons
-- [ ] Logic Building
-- [ ] Algorithms
-- [ ] Flowcharts
-- [ ] Pseudocode
-- [ ] Debugging
-
-Deliverables:
-- [ ] Module README
-- [ ] Quiz
-- [ ] Exercises
-- [ ] Interview Questions
-- [ ] Cheatsheet
+Module 08 paste here
 
 ---
 
@@ -233,7 +153,7 @@ Deliverables:
 - [x] Module 02 — Number Systems & Data Representation
 - [x] Module 03 — Operating Systems
 - [x] Module 04 — Internet Fundamentals
-- [ ] Module 05 — How the Web Works
+- [x] Module 05 — How the Web Works
 - [ ] Module 06 — Developer Environment
 - [ ] Module 07 — Command Line
 - [ ] Module 08 — Git Basics
