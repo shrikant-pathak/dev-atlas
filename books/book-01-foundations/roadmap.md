@@ -149,7 +149,22 @@ Deliverables:
 
 ---
 
-Module 06 paste here
+# ✅ Module 06 — Developer Environment
+**Status:** Complete
+
+## Lessons
+- [x] Visual Studio Code
+- [x] Extensions
+- [x] Browser DevTools
+- [x] Terminal
+- [x] File Structure
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -171,7 +186,7 @@ Module 08 paste here
 - [x] Module 03 — Operating Systems
 - [x] Module 04 — Internet Fundamentals
 - [x] Module 05 — How the Web Works
-- [ ] Module 06 — Developer Environment
+- [x] Module 06 — Developer Environment
 - [ ] Module 07 — Command Line
 - [ ] Module 08 — Git Basics
 - [ ] Module 09 — Problem Solving
