@@ -238,8 +238,6 @@ Deliverables:
 - [x] Module 07 — Command Line
 - [x] Module 08 — Git Basics
 - [x] Module 09 — Problem Solving
-- [ ] Finish mini projects
-- [ ] Complete final assessment
             
 ---
 
