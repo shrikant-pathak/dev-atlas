@@ -57,167 +57,57 @@ Deliverables:
 
 ---
 
-# 🔲 Module 02 — Text & Content Elements
-**Status:** Not started
+# ✅ Module 02 — Text & Content Elements
+**Status:** Complete
 
 ## Lessons
-- [ ] Headings & Document Outline
-- [ ] Paragraphs & Text Formatting
-- [ ] Lists (Ordered, Unordered, Description)
-- [ ] Semantic Text Elements (`<strong>`, `<em>`, `<mark>`, `<abbr>`, etc.)
-- [ ] Quotes & Citations
-- [ ] Line Breaks, Horizontal Rules & Preformatted Text
+- [x] Headings & Document Outline
+- [x] Paragraphs & Text Formatting
+- [x] Lists (Ordered, Unordered, Description)
+- [x] Semantic Text Elements (`<strong>`, `<em>`, `<mark>`, `<abbr>`, etc.)
+- [x] Quotes & Citations
+- [x] Line Breaks, Horizontal Rules & Preformatted Text
 
 Deliverables:
-- [ ] Module README
-- [ ] Quiz
-- [ ] Exercises
-- [ ] Interview Questions
-- [ ] Cheatsheet
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
-# 🔲 Module 03 — Links, Images & Media
-**Status:** Not started
-
-## Lessons
-- [ ] File Paths (Relative vs. Absolute)
-- [ ] Anchor Tags & Navigation
-- [ ] Images & Alt Text
-- [ ] Responsive Images (`srcset`, `<picture>`)
-- [ ] Audio & Video
-- [ ] iframes & Embedding Third-Party Content
-
-Deliverables:
-- [ ] Module README
-- [ ] Quiz
-- [ ] Exercises
-- [ ] Interview Questions
-- [ ] Cheatsheet
+Module 03
 
 ---
 
-# 🔲 Module 04 — Forms & User Input
-**Status:** Not started
-
-## Lessons
-- [ ] Form Structure & Attributes
-- [ ] Input Types (text, email, number, date, checkbox, radio, etc.)
-- [ ] Labels, Fieldsets & Accessibility Basics
-- [ ] Buttons
-- [ ] Select, Textarea & Other Form Elements
-- [ ] Form Validation Attributes
-
-Deliverables:
-- [ ] Module README
-- [ ] Quiz
-- [ ] Exercises
-- [ ] Interview Questions
-- [ ] Cheatsheet
+Module 04
 
 ---
 
-# 🔲 Module 05 — Tables & Structured Data
-**Status:** Not started
-
-## Lessons
-- [ ] Table Structure (`<table>`, `<tr>`, `<td>`, `<th>`)
-- [ ] Table Headers & Captions
-- [ ] Spanning Rows & Columns
-- [ ] Table Accessibility
-- [ ] When (Not) to Use Tables
-
-Deliverables:
-- [ ] Module README
-- [ ] Quiz
-- [ ] Exercises
-- [ ] Interview Questions
-- [ ] Cheatsheet
+Module 05
 
 ---
 
-# 🔲 Module 06 — Semantic HTML & Document Structure
-**Status:** Not started
-
-## Lessons
-- [ ] Why Semantic HTML Matters
-- [ ] `<header>`, `<nav>`, `<footer>`
-- [ ] `<main>`, `<section>`, `<article>`
-- [ ] `<aside>` & Other Layout Elements
-- [ ] Building a Full Semantic Page Layout
-
-Deliverables:
-- [ ] Module README
-- [ ] Quiz
-- [ ] Exercises
-- [ ] Interview Questions
-- [ ] Cheatsheet
+Module 06
 
 ---
 
-# 🔲 Module 07 — Accessibility (a11y) & SEO Fundamentals
-**Status:** Not started
-
-## Lessons
-- [ ] Why Accessibility Matters
-- [ ] ARIA Basics
-- [ ] Heading Hierarchy & Screen Readers
-- [ ] Meta Tags Deep Dive (favicon, viewport, Open Graph, Twitter Cards)
-- [ ] Structured Data & Schema.org
-- [ ] SEO Fundamentals for HTML
-
-Deliverables:
-- [ ] Module README
-- [ ] Quiz
-- [ ] Exercises
-- [ ] Interview Questions
-- [ ] Cheatsheet
+Module 07
 
 ---
 
-# 🔲 Module 08 — HTML5 APIs & Advanced Features
-**Status:** Not started
-
-## Lessons
-- [ ] `<canvas>` Basics
-- [ ] `<svg>` Basics
-- [ ] Drag & Drop API
-- [ ] Web Storage API (localStorage/sessionStorage)
-- [ ] Geolocation API
-- [ ] Web Components Intro & Validation Tools
-
-Deliverables:
-- [ ] Module README
-- [ ] Quiz
-- [ ] Exercises
-- [ ] Interview Questions
-- [ ] Cheatsheet
+Module 08
 
 ---
 
-# 🔲 Module 09 — Real-World Project & Best Practices
-**Status:** Not started
-
-## Lessons
-- [ ] HTML Style Guide & Coding Conventions
-- [ ] Structuring a Multi-Page Site
-- [ ] Common Mistakes & Anti-Patterns
-- [ ] Code Review Checklist
-- [ ] Capstone Project
-
-Deliverables:
-- [ ] Module README
-- [ ] Quiz
-- [ ] Exercises
-- [ ] Interview Questions
-- [ ] Cheatsheet
-- [ ] Capstone Project
+Module 09
 
 ---
 
 # Completion Checklist
 - [x] Module 01 — HTML Fundamentals
-- [ ] Module 02 — Text & Content Elements
+- [x] Module 02 — Text & Content Elements
 - [ ] Module 03 — Links, Images & Media
 - [ ] Module 04 — Forms & User Input
 - [ ] Module 05 — Tables & Structured Data
