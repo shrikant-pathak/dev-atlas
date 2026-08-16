@@ -117,7 +117,22 @@ Deliverables:
 
 ---
 
-Module 05
+# ✅ Module 05 — Tables & Structured Data
+**Status:** Complete
+
+## Lessons
+- [x] Table Structure (`<table>`, `<tr>`, `<td>`, `<th>`)
+- [x] Table Headers & Captions
+- [x] Spanning Rows & Columns
+- [x] Table Accessibility
+- [x] When (Not) to Use Tables
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -142,7 +157,7 @@ Module 09
 - [x] Module 02 — Text & Content Elements
 - [x] Module 03 — Links, Images & Media
 - [x] Module 04 — Forms & User Input
-- [ ] Module 05 — Tables & Structured Data
+- [x] Module 05 — Tables & Structured Data
 - [ ] Module 06 — Semantic HTML & Document Structure
 - [ ] Module 07 — Accessibility (a11y) & SEO Fundamentals
 - [ ] Module 08 — HTML5 APIs & Advanced Features
