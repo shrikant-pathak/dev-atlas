@@ -77,7 +77,23 @@ Deliverables:
 
 ---
 
-Module 03
+# ✅ Module 03 — Links, Images & Media
+**Status:** Complete
+
+## Lessons
+- [x] File Paths (Relative vs. Absolute)
+- [x] Anchor Tags & Navigation
+- [x] Images & Alt Text
+- [x] Responsive Images (`srcset`, `<picture>`)
+- [x] Audio & Video
+- [x] iframes & Embedding Third-Party Content
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -108,7 +124,7 @@ Module 09
 # Completion Checklist
 - [x] Module 01 — HTML Fundamentals
 - [x] Module 02 — Text & Content Elements
-- [ ] Module 03 — Links, Images & Media
+- [x] Module 03 — Links, Images & Media
 - [ ] Module 04 — Forms & User Input
 - [ ] Module 05 — Tables & Structured Data
 - [ ] Module 06 — Semantic HTML & Document Structure
