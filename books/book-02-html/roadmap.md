@@ -97,7 +97,23 @@ Deliverables:
 
 ---
 
-Module 04
+# ✅ Module 04 — Forms & User Input
+**Status:** Complete
+
+## Lessons
+- [x] Form Structure & Attributes
+- [x] Input Types (text, email, number, date, checkbox, radio, etc.)
+- [x] Labels, Fieldsets & Accessibility Basics
+- [x] Buttons
+- [x] Select, Textarea & Other Form Elements
+- [x] Form Validation Attributes
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -125,7 +141,7 @@ Module 09
 - [x] Module 01 — HTML Fundamentals
 - [x] Module 02 — Text & Content Elements
 - [x] Module 03 — Links, Images & Media
-- [ ] Module 04 — Forms & User Input
+- [x] Module 04 — Forms & User Input
 - [ ] Module 05 — Tables & Structured Data
 - [ ] Module 06 — Semantic HTML & Document Structure
 - [ ] Module 07 — Accessibility (a11y) & SEO Fundamentals
