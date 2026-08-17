@@ -175,7 +175,23 @@ Deliverables:
 
 ---
 
-Module 08
+# ✅ Module 08 — HTML5 APIs & Advanced Features
+**Status:** Complete
+
+## Lessons
+- [x] `<canvas>` Basics
+- [x] `<svg>` Basics
+- [x] Drag & Drop API
+- [x] Web Storage API (localStorage/sessionStorage)
+- [x] Geolocation API
+- [x] Web Components Intro & Validation Tools
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -191,7 +207,7 @@ Module 09
 - [x] Module 05 — Tables & Structured Data
 - [x] Module 06 — Semantic HTML & Document Structure
 - [x] Module 07 — Accessibility (a11y) & SEO Fundamentals
-- [ ] Module 08 — HTML5 APIs & Advanced Features
+- [x] Module 08 — HTML5 APIs & Advanced Features
 - [ ] Module 09 — Real-World Project & Best Practices
 - [ ] Full curriculum review pass (check for gaps before calling Book 02 complete)
 
