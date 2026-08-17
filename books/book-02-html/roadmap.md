@@ -155,7 +155,23 @@ Deliverables:
 
 ---
 
-Module 07
+# ✅ Module 07 — Accessibility (a11y) & SEO Fundamentals
+**Status:** Complete
+
+## Lessons
+- [x] Why Accessibility Matters
+- [x] ARIA Basics
+- [x] Heading Hierarchy & Screen Readers
+- [x] Meta Tags Deep Dive (favicon, viewport, Open Graph, Twitter Cards)
+- [x] Structured Data & Schema.org
+- [x] SEO Fundamentals for HTML
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -174,7 +190,7 @@ Module 09
 - [x] Module 04 — Forms & User Input
 - [x] Module 05 — Tables & Structured Data
 - [x] Module 06 — Semantic HTML & Document Structure
-- [ ] Module 07 — Accessibility (a11y) & SEO Fundamentals
+- [x] Module 07 — Accessibility (a11y) & SEO Fundamentals
 - [ ] Module 08 — HTML5 APIs & Advanced Features
 - [ ] Module 09 — Real-World Project & Best Practices
 - [ ] Full curriculum review pass (check for gaps before calling Book 02 complete)
