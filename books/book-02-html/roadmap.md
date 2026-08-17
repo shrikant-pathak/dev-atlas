@@ -136,7 +136,22 @@ Deliverables:
 
 ---
 
-Module 06
+# ✅ Module 06 — Semantic HTML & Document Structure
+**Status:** Complete
+
+## Lessons
+- [x] Why Semantic HTML Matters
+- [x] `<header>`, `<nav>`, `<footer>`
+- [x] `<main>`, `<section>`, `<article>`
+- [x] `<aside>` & Other Layout Elements
+- [x] Building a Full Semantic Page Layout
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -158,7 +173,7 @@ Module 09
 - [x] Module 03 — Links, Images & Media
 - [x] Module 04 — Forms & User Input
 - [x] Module 05 — Tables & Structured Data
-- [ ] Module 06 — Semantic HTML & Document Structure
+- [x] Module 06 — Semantic HTML & Document Structure
 - [ ] Module 07 — Accessibility (a11y) & SEO Fundamentals
 - [ ] Module 08 — HTML5 APIs & Advanced Features
 - [ ] Module 09 — Real-World Project & Best Practices
