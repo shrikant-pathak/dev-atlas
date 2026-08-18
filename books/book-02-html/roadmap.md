@@ -195,7 +195,23 @@ Deliverables:
 
 ---
 
-Module 09
+# ✅ Module 09 — Real-World Project & Best Practices
+**Status:** Complete
+
+## Lessons
+- [x] HTML Style Guide & Coding Conventions
+- [x] Structuring a Multi-Page Site
+- [x] Common Mistakes & Anti-Patterns
+- [x] Code Review Checklist
+- [x] Capstone Project
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
+- [x] Capstone Project
 
 ---
 
@@ -208,7 +224,7 @@ Module 09
 - [x] Module 06 — Semantic HTML & Document Structure
 - [x] Module 07 — Accessibility (a11y) & SEO Fundamentals
 - [x] Module 08 — HTML5 APIs & Advanced Features
-- [ ] Module 09 — Real-World Project & Best Practices
+- [x] Module 09 — Real-World Project & Best Practices
 - [ ] Full curriculum review pass (check for gaps before calling Book 02 complete)
 
 ---
