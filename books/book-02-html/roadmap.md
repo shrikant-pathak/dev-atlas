@@ -225,7 +225,7 @@ Deliverables:
 - [x] Module 07 — Accessibility (a11y) & SEO Fundamentals
 - [x] Module 08 — HTML5 APIs & Advanced Features
 - [x] Module 09 — Real-World Project & Best Practices
-- [ ] Full curriculum review pass (check for gaps before calling Book 02 complete)
+- [x] Full curriculum review pass (check for gaps before calling Book 02 complete)
 
 ---
 
