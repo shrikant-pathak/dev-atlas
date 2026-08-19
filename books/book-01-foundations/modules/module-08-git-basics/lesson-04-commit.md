@@ -1,4 +1,3 @@
-cat > lesson-04-commit.md << 'EOF'
 # Lesson 04: Commit
 
 ## Learning Objectives
@@ -93,4 +92,3 @@ git commit --amend             # edit the most recent commit's message or conten
 3. A good commit message is short, clear, and describes what changed (often starting with an imperative verb like "Add" or "Fix"); a poor one is vague and uninformative (e.g., "fix stuff").
 
 </details>
-EOF

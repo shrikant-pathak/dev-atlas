@@ -1,4 +1,3 @@
-cat > lesson-04-table-accessibility.md << 'EOF'
 # Lesson 04: Table Accessibility
 
 ## Learning Objectives
@@ -120,4 +119,3 @@ Each `<td>`'s `headers` attribute lists every header `id` that applies to it —
 3. For genuinely complex tables with spanning headers or cells that relate to multiple different headers, where `scope` alone can't unambiguously express all the necessary relationships.
 
 </details>
-EOF

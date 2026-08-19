@@ -1,4 +1,3 @@
-cat > exercises.md << 'EOF'
 # Exercise Set — HTML5 APIs & Advanced Features
 
 ## Easy
@@ -27,4 +26,3 @@ cat > exercises.md << 'EOF'
 
 ## Bonus
 - [ ] Research `customElements.define()` (not covered in depth in this module) and write, in your own words, what the basic process of defining a custom element involves.
-EOF

@@ -1,4 +1,3 @@
-cat > quiz.md << 'EOF'
 # Quiz — Tables & Structured Data
 
 ## Multiple Choice
@@ -51,4 +50,3 @@ cat > quiz.md << 'EOF'
 ```
 
 </details>
-EOF

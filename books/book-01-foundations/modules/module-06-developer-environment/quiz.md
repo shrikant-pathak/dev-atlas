@@ -1,4 +1,3 @@
-cat > quiz.md << 'EOF'
 # Quiz — Developer Environment
 
 ## Multiple Choice
@@ -45,4 +44,3 @@ cat > quiz.md << 'EOF'
 **Coding Question 2:** `node_modules/`
 
 </details>
-EOF

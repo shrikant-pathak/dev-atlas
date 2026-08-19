@@ -1,4 +1,3 @@
-cat > lesson-02-svg-basics.md << 'EOF'
 # Lesson 02: `<svg>` Basics
 
 ## Learning Objectives
@@ -113,4 +112,3 @@ You'll encounter SVG icons constantly once you reach Book 09 (React), where icon
 3. For genuinely complex, pixel-level, or performance-critical graphics — games, particle effects, or data-heavy visualizations with huge numbers of elements — where SVG's DOM-element-per-shape approach would become a performance bottleneck.
 
 </details>
-EOF

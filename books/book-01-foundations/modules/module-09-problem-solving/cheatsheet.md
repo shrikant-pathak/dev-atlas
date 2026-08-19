@@ -1,4 +1,3 @@
-cat > cheatsheet.md << 'EOF'
 # 📄 Cheat Sheet — Problem Solving
 
 ## The Three Logic Building Blocks
@@ -58,4 +57,3 @@ Fix and verify
 - Breakpoints (DevTools Sources panel)
 - Rubber duck debugging
 - Reading the stack trace
-EOF

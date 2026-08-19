@@ -1,4 +1,3 @@
-cat > interview.md << 'EOF'
 # Interview Questions — Git Basics
 
 ## Beginner
@@ -18,4 +17,3 @@ cat > interview.md << 'EOF'
 - Walk through the full lifecycle of a Pull Request, from branch creation to merge.
 - Why does Git use a staging area instead of committing all changes directly?
 - What would you do if you accidentally committed directly to `main` instead of a feature branch?
-EOF

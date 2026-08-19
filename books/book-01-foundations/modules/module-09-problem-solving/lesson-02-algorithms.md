@@ -1,4 +1,3 @@
-cat > lesson-02-algorithms.md << 'EOF'
 # Lesson 02: Algorithms
 
 ## Learning Objectives
@@ -69,4 +68,3 @@ You interact with algorithms constantly without necessarily calling them that:
 3. They may differ significantly in efficiency — how much time or resources they use, especially as the size of the input grows.
 
 </details>
-EOF

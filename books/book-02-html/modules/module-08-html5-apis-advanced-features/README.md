@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Module 08: HTML5 APIs & Advanced Features
 
 > **Book:** Book 02 — HTML
@@ -47,4 +46,3 @@ This module previews HTML's more advanced, JavaScript-adjacent native capabiliti
 
 **Previous module:** [Module 07 — Accessibility (a11y) & SEO Fundamentals](../module-07-accessibility-seo-fundamentals/README.md)
 **Next module:** Module 09 — Real-World Project & Best Practices
-EOF

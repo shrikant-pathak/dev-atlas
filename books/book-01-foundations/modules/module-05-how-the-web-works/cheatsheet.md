@@ -1,4 +1,3 @@
-cat > cheatsheet.md << 'EOF'
 # 📄 Cheat Sheet — How the Web Works
 
 ## Browser Engines
@@ -55,4 +54,3 @@ CSS ──► CSSOM ─┘
 | `max-age=N` | Cache for N seconds |
 | `no-cache` | Cache but revalidate first |
 | `no-store` | Never cache |
-EOF

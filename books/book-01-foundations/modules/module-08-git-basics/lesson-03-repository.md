@@ -1,4 +1,3 @@
-cat > lesson-03-repository.md << 'EOF'
 # Lesson 03: Repository
 
 ## Learning Objectives
@@ -80,4 +79,3 @@ git commit -m "Initial commit"      # now tracked and committed
 3. An untracked file is one Git sees but isn't yet monitoring (simply hasn't been added yet); an ignored file is explicitly excluded from tracking altogether via `.gitignore`, so Git won't flag it as untracked either.
 
 </details>
-EOF

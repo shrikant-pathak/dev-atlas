@@ -1,4 +1,3 @@
-cat > quiz.md << 'EOF'
 # Quiz — Command Line
 
 ## Multiple Choice
@@ -49,4 +48,3 @@ chmod +x app.js
 **Coding Question 2:** `grep -r "error" --include="*.log" .`
 
 </details>
-EOF

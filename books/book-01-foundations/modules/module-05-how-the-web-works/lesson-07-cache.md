@@ -1,4 +1,3 @@
-cat > lesson-07-cache.md << 'EOF'
 # Lesson 07: Cache
 
 ## Learning Objectives
@@ -94,4 +93,3 @@ Before moving to Module 06, you should be able to:
 - [ ] Explain cookies, sessions, and caching, and how they relate to each other
 
 **Next up:** Module 06 — Developer Environment
-EOF

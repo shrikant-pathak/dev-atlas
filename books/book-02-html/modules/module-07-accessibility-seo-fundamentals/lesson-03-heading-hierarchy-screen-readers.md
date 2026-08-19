@@ -1,4 +1,3 @@
-cat > lesson-03-heading-hierarchy-screen-readers.md << 'EOF'
 # Lesson 03: Heading Hierarchy & Screen Readers
 
 ## Learning Objectives
@@ -72,4 +71,3 @@ Open Chrome DevTools on any of your own `dev-atlas` HTML files (once you have so
 3. Any of: built-in OS screen readers (VoiceOver/Narrator), browser DevTools' Accessibility panel, or automated checkers like axe DevTools or Lighthouse.
 
 </details>
-EOF

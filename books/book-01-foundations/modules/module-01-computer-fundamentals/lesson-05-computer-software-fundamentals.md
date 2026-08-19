@@ -1655,5 +1655,3 @@ These subjects are covered in later books and modules of DevAtlas.
 # References
 
 The concepts presented in this lesson are based on widely accepted principles from introductory computer science and software engineering, including topics commonly covered in university curricula and vendor documentation. When maintaining DevAtlas, consider reviewing current documentation from operating system vendors, programming language maintainers, and recognized educational resources to keep examples and terminology up to date.
-
-

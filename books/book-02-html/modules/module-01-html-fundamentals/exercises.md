@@ -26,4 +26,3 @@ cat > exercises.md << 'EOF'
 
 ## Bonus
 - [ ] Research the `<meta name="description">` tag (not yet covered) and explain what it's likely used for, based on what you already know about SEO from Book 01.
-EOF

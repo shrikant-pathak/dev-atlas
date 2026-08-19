@@ -1,4 +1,3 @@
-cat > lesson-01-git.md << 'EOF'
 # Lesson 01: Git
 
 ## Learning Objectives
@@ -77,4 +76,3 @@ git config --global user.email "you@example.com"
 3. Any two of: avoids messy manual file naming for versions, tracks exactly what changed and when, allows safe experimentation via branches, enables structured merging of multiple people's changes.
 
 </details>
-EOF

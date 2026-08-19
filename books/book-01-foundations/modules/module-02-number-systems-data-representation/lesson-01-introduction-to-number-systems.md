@@ -1631,6 +1631,3 @@ In the next lesson, you will study each number system in greater detail. You wil
 - Preparing for Number System Conversions
 
 These concepts will build directly on the foundation established in this lesson.
-
-
-

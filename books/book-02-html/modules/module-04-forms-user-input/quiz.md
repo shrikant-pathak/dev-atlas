@@ -1,4 +1,3 @@
-cat > quiz.md << 'EOF'
 # Quiz — Forms & User Input
 
 ## Multiple Choice
@@ -52,4 +51,3 @@ cat > quiz.md << 'EOF'
 ```
 
 </details>
-EOF

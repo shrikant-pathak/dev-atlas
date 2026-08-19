@@ -1,4 +1,3 @@
-cat > lesson-05-quotes-citations.md << 'EOF'
 # Lesson 05: Quotes & Citations
 
 ## Learning Objectives
@@ -90,4 +89,3 @@ Recall from Lesson 04: `<cite>` represents the *title of a creative work*, often
 3. The `cite` attribute is a URL, used on `<blockquote>`/`<q>`, invisible to users; the `<cite>` element is visible text naming the title of a creative work.
 
 </details>
-EOF

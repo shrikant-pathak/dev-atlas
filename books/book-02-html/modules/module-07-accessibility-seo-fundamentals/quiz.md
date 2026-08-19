@@ -1,4 +1,3 @@
-cat > quiz.md << 'EOF'
 # Quiz — Accessibility & SEO Fundamentals
 
 ## Multiple Choice
@@ -45,4 +44,3 @@ cat > quiz.md << 'EOF'
 **Coding Question 2:** `<meta name="robots" content="noindex, nofollow">`
 
 </details>
-EOF

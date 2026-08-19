@@ -1,4 +1,3 @@
-cat > lesson-01-canvas-basics.md << 'EOF'
 # Lesson 01: `<canvas>` Basics
 
 ## Learning Objectives
@@ -95,4 +94,3 @@ Canvas is a specialized tool, not a general-purpose replacement for regular HTML
 3. Any two of: data visualizations/charts, browser-based games, image editing tools, signature pads, generative art/animations.
 
 </details>
-EOF

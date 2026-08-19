@@ -1,4 +1,3 @@
-cat > lesson-03-directories.md << 'EOF'
 # Lesson 03: Directories
 
 ## Learning Objectives
@@ -74,5 +73,4 @@ rm -r my-app-backup                     # remove the backup once no longer neede
 2. The `-p` flag automatically creates any missing parent directories along the path; without it, `mkdir` expects every parent folder to already exist.
 3. Because it deletes recursively and without confirmation prompts, meaning a typo in the path (or an unexpectedly-expanded variable/wildcard) can permanently delete far more than intended, with no warning or undo.
 
-</details>
-EOF
+</details>EOF

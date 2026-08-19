@@ -1,4 +1,3 @@
-cat > lesson-06-package-managers.md << 'EOF'
 # Lesson 06: Package Managers
 
 ## Learning Objectives
@@ -118,4 +117,3 @@ Before moving to Module 08, you should be able to:
 - [ ] Use `npm` to manage a project's dependencies
 
 **Next up:** Module 08 — Git Basics
-EOF

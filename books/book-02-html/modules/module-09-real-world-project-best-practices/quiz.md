@@ -1,4 +1,3 @@
-cat > quiz.md << 'EOF'
 # Quiz — Real-World Project & Best Practices
 
 ## Multiple Choice
@@ -45,4 +44,3 @@ cat > quiz.md << 'EOF'
 **Coding Question 2:** `<button type="button" onclick="toggleMenu()">Menu</button>`
 
 </details>
-EOF

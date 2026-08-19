@@ -1,4 +1,3 @@
-cat > cheatsheet.md << 'EOF'
 # 📄 Cheat Sheet — Git Basics
 
 ## Setup
@@ -65,5 +64,3 @@ docs/short-description
 ## Pull Request Lifecycle
 
 Branch → Commit → Push → Open PR → Review → Merge → Delete branch
-
-EOF

@@ -1,4 +1,3 @@
-cat > lesson-06-merge.md << 'EOF'
 # Lesson 06: Merge
 
 ## Learning Objectives
@@ -86,4 +85,3 @@ git merge feature/dark-mode
 3. Open the conflicting file(s), manually resolve the conflicting sections, remove the conflict markers, stage the resolved file(s) with `git add`, then complete the merge with `git commit`.
 
 </details>
-EOF

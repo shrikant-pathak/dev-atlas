@@ -1,4 +1,3 @@
-cat > lesson-05-select-textarea-form-elements.md << 'EOF'
 # Lesson 05: Select, Textarea & Other Form Elements
 
 ## Learning Objectives
@@ -143,4 +142,3 @@ Unlike `<select>`, the user can still type any free-text value — `<datalist>` 
 3. `<select>` restricts the user to only the listed options; `<datalist>` merely suggests options while still allowing any free-text value to be entered and submitted.
 
 </details>
-EOF

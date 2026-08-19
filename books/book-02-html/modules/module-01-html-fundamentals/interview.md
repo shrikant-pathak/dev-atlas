@@ -1,4 +1,3 @@
-cat > interview.md << 'EOF'
 # Interview Questions — HTML Fundamentals
 
 ## Beginner
@@ -18,4 +17,3 @@ cat > interview.md << 'EOF'
 - Why might overusing `<div>` for everything ("div soup") be considered bad practice?
 - What is the `data-*` attribute pattern used for, and why is it preferable to inventing a custom non-standard attribute?
 - Why can emojis be typed directly into HTML, but `<` cannot?
-EOF

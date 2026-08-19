@@ -1,4 +1,3 @@
-cat > quiz.md << 'EOF'
 # Quiz — Semantic HTML & Document Structure
 
 ## Multiple Choice
@@ -60,4 +59,3 @@ cat > quiz.md << 'EOF'
 ```
 
 </details>
-EOF

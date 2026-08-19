@@ -1,4 +1,3 @@
-cat > lesson-04-terminal.md << 'EOF'
 # Lesson 04: Terminal
 
 ## Learning Objectives
@@ -78,4 +77,3 @@ This isn't required to be productive, but it's a common part of a developer's pe
 3. It opens the current folder in VS Code, directly from the terminal.
 
 </details>
-EOF

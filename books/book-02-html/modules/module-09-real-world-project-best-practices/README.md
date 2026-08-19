@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Module 09: Real-World Project & Best Practices
 
 > **Book:** Book 02 — HTML
@@ -47,4 +46,3 @@ This final module doesn't introduce new HTML syntax — it converts everything f
 
 **Previous module:** [Module 08 — HTML5 APIs & Advanced Features](../module-08-html5-apis-advanced-features/README.md)
 **Next:** 🎉 Book 02 complete (pending full curriculum review) — on to Book 03 (CSS)
-EOF

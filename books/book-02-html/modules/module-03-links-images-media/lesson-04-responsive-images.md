@@ -1,4 +1,3 @@
-cat > lesson-04-responsive-images.md << 'EOF'
 # Lesson 04: Responsive Images
 
 ## Learning Objectives
@@ -105,4 +104,3 @@ The browser evaluates each `<source>`'s `media` condition in order and uses the 
 3. It serves as the required fallback for browsers that don't support `<picture>`/`<source>`, and defines the default image and alt text.
 
 </details>
-EOF

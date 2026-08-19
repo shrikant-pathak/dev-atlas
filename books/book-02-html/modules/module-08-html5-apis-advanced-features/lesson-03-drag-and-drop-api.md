@@ -1,4 +1,3 @@
-cat > lesson-03-drag-and-drop-api.md << 'EOF'
 # Lesson 03: Drag & Drop API
 
 ## Learning Objectives
@@ -103,4 +102,3 @@ This HTML alone marks each task as draggable — a real, working foundation for 
 3. JavaScript — HTML only provides the `draggable` attribute marking an element as capable of being dragged; the actual behavior (what happens on drag/drop) is handled via JavaScript event listeners.
 
 </details>
-EOF

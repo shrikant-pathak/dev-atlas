@@ -1,4 +1,3 @@
-cat > lesson-02-extensions.md << 'EOF'
 # Lesson 02: Extensions
 
 ## Learning Objectives
@@ -76,4 +75,3 @@ code --list-extensions
 3. Disabling keeps the extension installed but inactive, easily re-enabled later; uninstalling removes it entirely from VS Code.
 
 </details>
-EOF

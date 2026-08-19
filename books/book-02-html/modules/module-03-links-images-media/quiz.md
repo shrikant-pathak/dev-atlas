@@ -1,4 +1,3 @@
-cat > quiz.md << 'EOF'
 # Quiz — Links, Images & Media
 
 ## Multiple Choice
@@ -54,4 +53,3 @@ cat > quiz.md << 'EOF'
 ```
 
 </details>
-EOF

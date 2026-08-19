@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Module 07: Accessibility (a11y) & SEO Fundamentals
 
 > **Book:** Book 02 — HTML
@@ -47,4 +46,3 @@ Accessibility has been woven through every module so far — this module names i
 
 **Previous module:** [Module 06 — Semantic HTML & Document Structure](../module-06-semantic-html-document-structure/README.md)
 **Next module:** Module 08 — HTML5 APIs & Advanced Features
-EOF

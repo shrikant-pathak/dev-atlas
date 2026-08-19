@@ -1,4 +1,3 @@
-cat > lesson-05-audio-video.md << 'EOF'
 # Lesson 05: Audio & Video
 
 ## Learning Objectives
@@ -107,4 +106,3 @@ Always include `controls` unless you're deliberately building custom playback co
 3. It provides captions or subtitles for video, typically referencing a `.vtt` (WebVTT) file containing timestamped text.
 
 </details>
-EOF

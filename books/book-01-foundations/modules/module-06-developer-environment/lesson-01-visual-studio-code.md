@@ -1,4 +1,3 @@
-cat > lesson-01-visual-studio-code.md << 'EOF'
 # Lesson 01: Visual Studio Code
 
 ## Learning Objectives
@@ -70,4 +69,3 @@ Learning the Command Palette especially pays off quickly — nearly everything V
 3. Any two of: Activity Bar, Explorer, Editor, Integrated Terminal, Status Bar.
 
 </details>
-EOF

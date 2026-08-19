@@ -1,4 +1,3 @@
-cat > lesson-05-capstone-project.md << 'EOF'
 # Lesson 05: Capstone Project
 
 ## Learning Objectives
@@ -117,4 +116,3 @@ Before considering Book 02 complete, you should be able to:
 
 **🎉 This completes Book 02 — HTML** (pending the full curriculum review pass).
 **Next up:** Book 03 — CSS
-EOF

@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Module 05: Tables & Structured Data
 
 > **Book:** Book 02 — HTML
@@ -46,4 +45,3 @@ This module covers HTML tables end to end — correct structure, header/footer g
 
 **Previous module:** [Module 04 — Forms & User Input](../module-04-forms-user-input/README.md)
 **Next module:** Module 06 — Semantic HTML & Document Structure
-EOF

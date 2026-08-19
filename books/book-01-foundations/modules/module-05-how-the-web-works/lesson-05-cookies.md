@@ -1,4 +1,3 @@
-cat > lesson-05-cookies.md << 'EOF'
 # Lesson 05: Cookies
 
 ## Learning Objectives
@@ -70,4 +69,3 @@ Open DevTools → Application tab → Cookies → select a domain to see all coo
 3. A session cookie is deleted when the browser closes; a persistent cookie remains stored until a specified expiration date, even after the browser is closed and reopened.
 
 </details>
-EOF

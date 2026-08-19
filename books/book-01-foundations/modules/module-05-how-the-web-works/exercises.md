@@ -1,4 +1,3 @@
-cat > exercises.md << 'EOF'
 # Exercise Set — How the Web Works
 
 ## Easy
@@ -26,4 +25,3 @@ cat > exercises.md << 'EOF'
 
 ## Bonus
 - [ ] Research and explain what a Service Worker is and how it relates to caching, beyond standard browser/CDN caching.
-EOF

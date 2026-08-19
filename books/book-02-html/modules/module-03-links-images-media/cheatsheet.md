@@ -1,4 +1,3 @@
-cat > cheatsheet.md << 'EOF'
 # 📄 Cheat Sheet — Links, Images & Media
 
 ## File Paths
@@ -74,4 +73,3 @@ cat > cheatsheet.md << 'EOF'
   sandbox="allow-scripts allow-same-origin">
 </iframe>
 ```
-EOF

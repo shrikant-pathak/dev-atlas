@@ -1,4 +1,3 @@
-cat > lesson-01-why-semantic-html-matters.md << 'EOF'
 # Lesson 01: Why Semantic HTML Matters
 
 ## Learning Objectives
@@ -100,4 +99,3 @@ From this module onward: **reach for a semantic element whenever one accurately 
 3. Any two of: screen readers can jump directly to semantic landmarks, search engines better understand content structure (SEO), other developers can read page structure at a glance, some browser tooling (like reader mode) relies on semantic elements.
 
 </details>
-EOF

@@ -1,4 +1,3 @@
-cat > lesson-01-headings-document-outline.md << 'EOF'
 # Lesson 01: Headings & Document Outline
 
 ## Learning Objectives
@@ -96,4 +95,3 @@ This means headings should be chosen based on **document structure**, not desire
 3. It breaks the logical document outline — screen reader users navigating by heading level, and search engines parsing structure, would see an inconsistent, illogical hierarchy.
 
 </details>
-EOF

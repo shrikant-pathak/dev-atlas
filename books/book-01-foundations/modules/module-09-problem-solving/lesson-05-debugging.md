@@ -1,4 +1,3 @@
-cat > lesson-05-debugging.md << 'EOF'
 # Lesson 05: Debugging
 
 ## Learning Objectives
@@ -94,4 +93,3 @@ Before considering Book 01 complete, you should be able to:
 
 **🎉 This completes Book 01 — Foundations.**
 **Next up:** Book 02 — HTML
-EOF

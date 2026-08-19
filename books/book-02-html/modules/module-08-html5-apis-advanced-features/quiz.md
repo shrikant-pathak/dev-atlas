@@ -1,4 +1,3 @@
-cat > quiz.md << 'EOF'
 # Quiz — HTML5 APIs & Advanced Features
 
 ## Multiple Choice
@@ -50,4 +49,3 @@ cat > quiz.md << 'EOF'
 **Coding Question 2:** `localStorage.setItem('theme', 'dark');`
 
 </details>
-EOF

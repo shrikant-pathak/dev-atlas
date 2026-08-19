@@ -1,4 +1,3 @@
-cat > lesson-02-input-types.md << 'EOF'
 # Lesson 02: Input Types
 
 ## Learning Objectives
@@ -140,4 +139,3 @@ Not rendered visibly at all, but still submitted with the form — commonly used
 3. Mobile devices show an email-optimized keyboard, and browsers perform basic automatic format validation.
 
 </details>
-EOF

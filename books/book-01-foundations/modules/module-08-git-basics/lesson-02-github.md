@@ -1,4 +1,3 @@
-cat > lesson-02-github.md << 'EOF'
 # Lesson 02: GitHub
 
 ## Learning Objectives
@@ -80,4 +79,3 @@ Beyond just backing up code, a public GitHub profile often functions as a develo
 3. `git clone` downloads an existing GitHub repository and automatically sets up the remote connection; `git init` + `git remote add` starts a new local repository from scratch and manually connects it to an (often empty) GitHub repository.
 
 </details>
-EOF

@@ -1,4 +1,3 @@
-cat > lesson-02-aria-basics.md << 'EOF'
 # Lesson 02: ARIA Basics
 
 ## Learning Objectives
@@ -111,4 +110,3 @@ The `role` attribute can describe an element's purpose when no native equivalent
 3. For purely decorative content (like a decorative icon) that would otherwise be announced by a screen reader with no meaningful context, adding noise rather than value.
 
 </details>
-EOF

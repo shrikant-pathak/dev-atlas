@@ -86,4 +86,3 @@ PUT replaces a resource entirely; PATCH applies a partial update, changing only 
 404 means "Not Found" — the requested resource doesn't exist on the server. It falls into the 4xx (client error) range.
 
 </details> EOF ```
-

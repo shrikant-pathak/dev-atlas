@@ -1198,5 +1198,3 @@ Understanding these concepts provides a strong foundation for learning operating
 8. What are the three types of system buses?
 9. Explain the Fetch–Decode–Execute Cycle.
 10. Describe how a program is loaded and executed after you double-click its icon.
-
-

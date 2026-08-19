@@ -1,4 +1,3 @@
-cat > exercises.md << 'EOF'
 # Exercise Set — Forms & User Input
 
 ## Easy
@@ -27,4 +26,3 @@ cat > exercises.md << 'EOF'
 
 ## Bonus
 - [ ] Research the `autofocus` and `autocomplete` attributes (not covered in depth in this module) and explain what each does.
-EOF

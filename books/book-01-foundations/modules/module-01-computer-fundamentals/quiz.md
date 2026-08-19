@@ -1411,6 +1411,3 @@ By completing this section, learners demonstrate their ability to:
 - Select appropriate computer systems for different needs.
 - Explain computer operations using practical examples.
 - Communicate technical concepts clearly and accurately.
-
-
-

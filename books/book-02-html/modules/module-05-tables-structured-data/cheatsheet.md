@@ -1,4 +1,3 @@
-cat > cheatsheet.md << 'EOF'
 # 📄 Cheat Sheet — Tables & Structured Data
 
 ## Core Structure
@@ -57,4 +56,3 @@ cat > cheatsheet.md << 'EOF'
 | Spreadsheet-like data, comparisons, schedules | ✅ Yes |
 | Page layout (sidebar, header, footer) | ❌ No — use CSS Grid/Flexbox (Book 03) |
 | Navigation, blog list, photo gallery | ❌ No |
-EOF

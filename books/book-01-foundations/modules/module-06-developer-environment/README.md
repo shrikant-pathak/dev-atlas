@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Module 06: Developer Environment
 
 > **Book:** Book 01 — Foundations
@@ -46,4 +45,3 @@ You now understand how computers, operating systems, the internet, and browsers 
 
 **Previous module:** [Module 05 — How the Web Works](../module-05-how-the-web-works/README.md)
 **Next module:** Module 07 — Command Line
-EOF

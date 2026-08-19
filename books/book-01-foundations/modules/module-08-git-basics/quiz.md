@@ -1,4 +1,3 @@
-cat > quiz.md << 'EOF'
 # Quiz — Git Basics
 
 ## Multiple Choice
@@ -49,4 +48,3 @@ git commit -m "Add project notes"
 ```
 
 </details>
-EOF

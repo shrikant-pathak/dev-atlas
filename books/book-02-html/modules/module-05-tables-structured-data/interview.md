@@ -1,4 +1,3 @@
-cat > interview.md << 'EOF'
 # Interview Questions — Tables & Structured Data
 
 ## Beginner
@@ -18,4 +17,3 @@ cat > interview.md << 'EOF'
 - When would `id`/`headers` be necessary instead of `scope` alone?
 - Describe how a screen reader user experiences a table differently from a sighted user, and why that matters for markup choices.
 - Give a real-world example each of content that IS and ISN'T appropriate for a `<table>`, with reasoning.
-EOF

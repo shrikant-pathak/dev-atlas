@@ -1,4 +1,3 @@
-cat > lesson-02-paragraphs-text-formatting.md << 'EOF'
 # Lesson 02: Paragraphs & Text Formatting
 
 ## Learning Objectives
@@ -85,4 +84,3 @@ Both render bold by default — but a screen reader will announce `<strong>` wit
 3. Text that's semantically relevant or highlighted for reference purposes (e.g., matching a search query), not simply text someone wants to visually color yellow.
 
 </details>
-EOF

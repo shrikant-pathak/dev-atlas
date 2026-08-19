@@ -1,4 +1,3 @@
-cat > exercises.md << 'EOF'
 # Exercise Set — Text & Content Elements
 
 ## Easy
@@ -26,4 +25,3 @@ cat > exercises.md << 'EOF'
 
 ## Bonus
 - [ ] Research the `<figure>` and `<figcaption>` elements (not covered in this module) and explain what they're likely used for, based on the semantic patterns you've learned.
-EOF

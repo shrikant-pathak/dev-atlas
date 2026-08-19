@@ -1,4 +1,3 @@
-cat > lesson-04-block-vs-inline-div.md << 'EOF'
 # Lesson 04: Block vs. Inline Elements & the `<div>`
 
 ## Learning Objectives
@@ -99,4 +98,3 @@ Here, `<div>` and `<h2>` and `<p>` are block-level (each on their own line/full 
 3. Inline; typically used to group or target a small piece of text for styling or scripting purposes, without breaking the surrounding text flow.
 
 </details>
-EOF

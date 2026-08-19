@@ -1,4 +1,3 @@
-cat > lesson-04-buttons.md << 'EOF'
 # Lesson 04: Buttons
 
 ## Learning Objectives
@@ -113,4 +112,3 @@ For this flexibility, `<button>` is generally the more common modern choice.
 3. Rich content — icons, images, nested elements — rather than being limited to plain text via a `value` attribute.
 
 </details>
-EOF

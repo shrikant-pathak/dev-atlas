@@ -1,4 +1,3 @@
-cat > interview.md << 'EOF'
 # Interview Questions — Accessibility & SEO Fundamentals
 
 ## Beginner
@@ -18,4 +17,3 @@ cat > interview.md << 'EOF'
 - What are "rich results," and how does structured data enable them?
 - Walk through the difference between `aria-label`, `aria-labelledby`, and `aria-describedby`.
 - Beyond HTML structure, name other major factors that affect real-world SEO.
-EOF

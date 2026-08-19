@@ -1,4 +1,3 @@
-cat > cheatsheet.md << 'EOF'
 # 📄 Cheat Sheet — Forms & User Input
 
 ## Form Structure
@@ -78,4 +77,3 @@ pattern="[0-9]{5}"
 ```
 
 ⚠️ Client-side validation is UX only — **always** validate again on the server.
-EOF

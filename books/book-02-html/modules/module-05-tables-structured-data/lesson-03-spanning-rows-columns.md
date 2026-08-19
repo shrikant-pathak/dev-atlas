@@ -1,4 +1,3 @@
-cat > lesson-03-spanning-rows-columns.md << 'EOF'
 # Lesson 03: Spanning Rows & Columns
 
 ## Learning Objectives
@@ -138,4 +137,3 @@ If your table renders with misaligned columns, the almost-always culprit is a ro
 3. A row having too many or too few `<td>`/`<th>` elements relative to what's already been claimed by `rowspan` cells from rows above it.
 
 </details>
-EOF

@@ -1,4 +1,3 @@
-cat > lesson-03-labels-fieldsets-accessibility.md << 'EOF'
 # Lesson 03: Labels, Fieldsets & Accessibility Basics
 
 ## Learning Objectives
@@ -109,4 +108,3 @@ Screen readers announce the `<legend>` when entering the fieldset, giving contex
 3. It groups logically related fields together with a shared, announced group description, giving context that individual field labels alone can't provide (especially useful for radio button groups).
 
 </details>
-EOF

@@ -1,4 +1,3 @@
-cat > interview.md << 'EOF'
 # Interview Questions — Command Line
 
 ## Beginner
@@ -18,4 +17,3 @@ cat > interview.md << 'EOF'
 - Explain how the pipe (`|`) operator works, with an example combining `find` and `grep`.
 - What's the difference between installing an npm package globally versus locally, and when would you choose each?
 - Walk through how you'd troubleshoot a "permission denied" error when trying to run a shell script.
-EOF

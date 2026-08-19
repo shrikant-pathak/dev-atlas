@@ -4678,5 +4678,3 @@ You will learn:
 - Binary to Hexadecimal conversion
 - Hexadecimal to Binary conversion
 - Conversion techniques used by programmers
-
-

@@ -1,4 +1,3 @@
-cat > lesson-04-aside-layout-elements.md << 'EOF'
 # Lesson 04: `<aside>` & Other Layout Elements
 
 ## Learning Objectives
@@ -132,4 +131,3 @@ Just like `<header>`/`<footer>`, `<aside>` isn't limited to living inside an `<a
 3. A native, collapsible disclosure widget (expand/collapse behavior) with zero JavaScript required for the basic interaction.
 
 </details>
-EOF

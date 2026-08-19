@@ -1,4 +1,3 @@
-cat > exercises.md << 'EOF'
 # Exercise Set — Links, Images & Media
 
 ## Easy
@@ -27,4 +26,3 @@ cat > exercises.md << 'EOF'
 
 ## Bonus
 - [ ] Research the `<embed>` and `<object>` elements (not covered in this module) and explain how they differ from `<iframe>`.
-EOF

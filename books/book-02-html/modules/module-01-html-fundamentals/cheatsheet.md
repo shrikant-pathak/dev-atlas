@@ -1,4 +1,3 @@
-cat > cheatsheet.md << 'EOF'
 # 📄 Cheat Sheet — HTML Fundamentals
 
 ## Boilerplate
@@ -67,4 +66,3 @@ cat > cheatsheet.md << 'EOF'
 | © | `&copy;` |
 | — | `&mdash;` |
 | × | `&times;` |
-EOF

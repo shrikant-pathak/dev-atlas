@@ -1,4 +1,3 @@
-cat > lesson-05-branch.md << 'EOF'
 # Lesson 05: Branch
 
 ## Learning Objectives
@@ -88,4 +87,3 @@ git branch                                # confirm you're back on main, feature
 3. `git checkout -b` creates a brand-new branch and switches to it in one step; `git checkout` (without `-b`) switches to an already-existing branch.
 
 </details>
-EOF

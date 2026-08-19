@@ -1,4 +1,3 @@
-cat > exercises.md << 'EOF'
 # Exercise Set — Tables & Structured Data
 
 ## Easy
@@ -26,4 +25,3 @@ cat > exercises.md << 'EOF'
 
 ## Bonus
 - [ ] Research `<colgroup>` and `<col>` (not covered in this module) and explain what they're used for.
-EOF

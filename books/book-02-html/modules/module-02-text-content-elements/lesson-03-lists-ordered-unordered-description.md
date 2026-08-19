@@ -1,4 +1,3 @@
-cat > lesson-03-lists-ordered-unordered-description.md << 'EOF'
 # Lesson 03: Lists (Ordered, Unordered, Description)
 
 ## Learning Objectives
@@ -152,4 +151,3 @@ Note the nested `<ul>` sits *inside* the parent `<li>`, not as a sibling of it â
 3. Inside the parent `<li>` element it relates to, not as a sibling alongside it.
 
 </details>
-EOF

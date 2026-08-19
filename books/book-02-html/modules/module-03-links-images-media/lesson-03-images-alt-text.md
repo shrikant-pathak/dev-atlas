@@ -1,4 +1,3 @@
-cat > lesson-03-images-alt-text.md << 'EOF'
 # Lesson 03: Images & Alt Text
 
 ## Learning Objectives
@@ -109,4 +108,3 @@ For images that need an associated caption, the semantically correct structure i
 3. `<figure>` is a semantic container grouping an image (or other content) together with its caption; `<figcaption>` provides that caption text within it.
 
 </details>
-EOF

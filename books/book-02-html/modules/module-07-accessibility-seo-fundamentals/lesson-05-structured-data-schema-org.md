@@ -1,4 +1,3 @@
-cat > lesson-05-structured-data-schema-org.md << 'EOF'
 # Lesson 05: Structured Data & Schema.org
 
 ## Learning Objectives
@@ -125,4 +124,3 @@ Notice how this pairs naturally with the `<details>`/`<summary>` FAQ pattern fro
 3. Enhanced search result formats (star ratings, recipe details, FAQ dropdowns) that go beyond plain text listings; pages need correctly implemented structured data to become eligible for these more prominent, higher-click-through result formats.
 
 </details>
-EOF

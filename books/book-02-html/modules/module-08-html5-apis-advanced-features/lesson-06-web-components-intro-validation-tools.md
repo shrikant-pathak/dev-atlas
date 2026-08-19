@@ -1,4 +1,3 @@
-cat > lesson-06-web-components-intro-validation-tools.md << 'EOF'
 # Lesson 06: Web Components Intro & Validation Tools
 
 ## Learning Objectives
@@ -90,4 +89,3 @@ Before moving to Module 09, you should be able to:
 - [ ] Use the W3C Markup Validator to check a real HTML page
 
 **Next up:** Module 09 — Real-World Project & Best Practices
-EOF

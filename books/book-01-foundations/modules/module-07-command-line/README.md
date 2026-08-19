@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Module 07: Command Line
 
 > **Book:** Book 01 — Foundations
@@ -47,4 +46,3 @@ You got a first taste of the command line back in Module 01. This module builds 
 
 **Previous module:** [Module 06 — Developer Environment](../module-06-developer-environment/README.md)
 **Next module:** Module 08 — Git Basics
-EOF

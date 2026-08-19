@@ -1,4 +1,3 @@
-cat > lesson-02-document-structure-boilerplate.md << 'EOF'
 # Lesson 02: HTML Document Structure & Boilerplate
 
 ## Learning Objectives
@@ -106,4 +105,3 @@ Consistent indentation (2 or 4 spaces per nesting level) isn't required for the 
 3. Without it, the browser renders the page at a fixed "desktop" width and then zooms out to fit the screen, rather than actually matching the page's width to the device — breaking responsive design.
 
 </details>
-EOF

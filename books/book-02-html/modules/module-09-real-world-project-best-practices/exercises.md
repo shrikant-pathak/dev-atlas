@@ -1,4 +1,3 @@
-cat > exercises.md << 'EOF'
 # Exercise Set — Real-World Project & Best Practices
 
 ## Easy
@@ -26,4 +25,3 @@ cat > exercises.md << 'EOF'
 
 ## Bonus
 - [ ] Read Google's HTML/CSS Style Guide (search for it) and note 2 conventions it recommends that weren't covered in Lesson 01.
-EOF

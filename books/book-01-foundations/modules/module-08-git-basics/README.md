@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Module 08: Git Basics
 
 > **Book:** Book 01 — Foundations
@@ -48,4 +47,3 @@ You've used Git commands throughout this entire roadmap already. This module fin
 
 **Previous module:** [Module 07 — Command Line](../module-07-command-line/README.md)
 **Next module:** Module 09 — Problem Solving
-EOF

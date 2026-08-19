@@ -1,4 +1,3 @@
-cat > lesson-05-classes-ids-global-attributes.md << 'EOF'
 # Lesson 05: Classes, IDs & Global Attributes
 
 ## Learning Objectives
@@ -112,4 +111,3 @@ This is genuinely one of the most useful patterns you'll carry forward into Book
 3. Attaching custom, arbitrary data directly to an HTML element, commonly read later via JavaScript, without violating HTML standards.
 
 </details>
-EOF

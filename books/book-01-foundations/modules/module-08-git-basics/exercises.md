@@ -1,4 +1,3 @@
-cat > exercises.md << 'EOF'
 # Exercise Set — Git Basics
 
 ## Easy
@@ -27,4 +26,3 @@ cat > exercises.md << 'EOF'
 
 ## Bonus
 - [ ] Research and explain the difference between `git merge` and `git rebase` — when might a team prefer one over the other?
-EOF

@@ -1,4 +1,3 @@
-cat > quiz.md << 'EOF'
 # Quiz — How the Web Works
 
 ## Multiple Choice
@@ -45,4 +44,3 @@ cat > quiz.md << 'EOF'
 **Coding Question 2:** `Cache-Control: max-age=3600`
 
 </details>
-EOF

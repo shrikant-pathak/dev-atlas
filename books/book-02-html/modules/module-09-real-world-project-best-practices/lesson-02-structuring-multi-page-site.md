@@ -1,4 +1,3 @@
-cat > lesson-02-structuring-multi-page-site.md << 'EOF'
 # Lesson 02: Structuring a Multi-Page Site
 
 ## Learning Objectives
@@ -127,4 +126,3 @@ my-site/
 3. Plain HTML has no native way to "include" shared content across multiple files, requiring tedious manual duplication; backend templating (Node.js/Express, Book 11+) and frontend frameworks (React, Book 09) both solve this through component/template reuse.
 
 </details>
-EOF

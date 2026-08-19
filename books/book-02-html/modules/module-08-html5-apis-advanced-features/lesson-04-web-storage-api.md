@@ -1,4 +1,3 @@
-cat > lesson-04-web-storage-api.md << 'EOF'
 # Lesson 04: Web Storage API
 
 ## Learning Objectives
@@ -112,4 +111,3 @@ function toggleTheme() {
 3. Only strings; objects/arrays must be converted using `JSON.stringify()` before storing and `JSON.parse()` after retrieving.
 
 </details>
-EOF

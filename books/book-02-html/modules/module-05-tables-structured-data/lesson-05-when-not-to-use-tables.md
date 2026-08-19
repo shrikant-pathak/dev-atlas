@@ -1,4 +1,3 @@
-cat > lesson-05-when-not-to-use-tables.md << 'EOF'
 # Lesson 05: When (Not) to Use Tables
 
 ## Learning Objectives
@@ -124,4 +123,3 @@ Before moving to Module 06, you should be able to:
 - [ ] Confidently judge when data is genuinely tabular versus a layout problem in disguise
 
 **Next up:** Module 06 — Semantic HTML & Document Structure
-EOF

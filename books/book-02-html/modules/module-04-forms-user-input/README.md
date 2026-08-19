@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Module 04: Forms & User Input
 
 > **Book:** Book 02 — HTML
@@ -47,4 +46,3 @@ Forms are how the web actually collects information — logins, signups, checkou
 
 **Previous module:** [Module 03 — Links, Images & Media](../module-03-links-images-media/README.md)
 **Next module:** Module 05 — Tables & Structured Data
-EOF

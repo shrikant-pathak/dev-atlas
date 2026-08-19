@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Module 05: How the Web Works
 
 > **Book:** Book 01 — Foundations
@@ -48,4 +47,3 @@ Module 04 covered the network-level journey of a single request. This module goe
 
 **Previous module:** [Module 04 — Internet Fundamentals](../module-04-internet-fundamentals/README.md)
 **Next module:** Module 06 — Developer Environment
-EOF

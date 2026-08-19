@@ -1,4 +1,3 @@
-cat > lesson-05-geolocation-api.md << 'EOF'
 # Lesson 05: Geolocation API
 
 ## Learning Objectives
@@ -104,4 +103,3 @@ Notice the fallback in the error case — a genuinely important UX detail, givin
 3. Any two of: GPS (most accurate, mobile devices), Wi-Fi network positioning, IP-address-based estimation (least accurate, common on desktop).
 
 </details>
-EOF

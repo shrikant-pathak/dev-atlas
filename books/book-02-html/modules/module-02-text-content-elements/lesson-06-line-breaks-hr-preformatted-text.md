@@ -1,4 +1,3 @@
-cat > lesson-06-line-breaks-hr-preformatted-text.md << 'EOF'
 # Lesson 06: Line Breaks, Horizontal Rules & Preformatted Text
 
 ## Learning Objectives
@@ -133,4 +132,3 @@ Before moving to Module 03, you should be able to:
 - [ ] Use `<br>`, `<hr>`, and `<pre>` for their genuine semantic purposes, not as layout shortcuts
 
 **Next up:** Module 03 — Links, Images & Media
-EOF

@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Module 02: Text & Content Elements
 
 > **Book:** Book 02 — HTML
@@ -47,4 +46,3 @@ With the structural fundamentals in place, this module covers HTML's rich vocabu
 
 **Previous module:** [Module 01 — HTML Fundamentals](../module-01-html-fundamentals/README.md)
 **Next module:** Module 03 — Links, Images & Media
-EOF

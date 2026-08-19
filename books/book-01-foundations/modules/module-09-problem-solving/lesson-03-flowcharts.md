@@ -1,4 +1,3 @@
-cat > lesson-03-flowcharts.md << 'EOF'
 # Lesson 03: Flowcharts
 
 ## Learning Objectives
@@ -82,4 +81,3 @@ In practice, most working developers don't draw formal flowcharts for every piec
 3. Any two of: reveals gaps or edge cases before coding, communicates logic clearly to non-technical people, helps debug complex logic by visually tracing through it.
 
 </details>
-EOF

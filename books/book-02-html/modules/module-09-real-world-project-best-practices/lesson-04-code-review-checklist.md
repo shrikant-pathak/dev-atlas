@@ -1,4 +1,3 @@
-cat > lesson-04-code-review-checklist.md << 'EOF'
 # Lesson 04: Code Review Checklist
 
 ## Learning Objectives
@@ -92,4 +91,3 @@ Take any HTML file you've built while working through this book so far — run i
 3. Any three of: meaningful alt text, properly associated form labels, semantic landmarks over div soup, ARIA used only where native HTML can't achieve the same result, passing a Lighthouse Accessibility audit.
 
 </details>
-EOF

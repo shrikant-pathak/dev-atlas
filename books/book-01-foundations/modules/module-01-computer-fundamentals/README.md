@@ -152,4 +152,3 @@ The next module will build on these fundamentals by introducing the next stage o
 # Summary
 
 Module 01 lays the groundwork for everything that follows in DevAtlas. By understanding the fundamentals of computer systems, you'll be well prepared to explore programming, web development, databases, networking, operating systems, and other advanced topics with confidence.
-

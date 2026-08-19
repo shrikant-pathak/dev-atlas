@@ -1,4 +1,3 @@
-cat > cheatsheet.md << 'EOF'
 # 📄 Cheat Sheet — Accessibility & SEO Fundamentals
 
 ## First Rule of ARIA
@@ -65,4 +64,3 @@ role="alert"                             <!-- urgent, interrupting message -->
 - [ ] Unique `<title>` and `<meta description>` per page
 - [ ] Open Graph tags for sharing
 - [ ] Structured data where applicable
-EOF

@@ -1,4 +1,3 @@
-cat > lesson-02-anchor-tags-navigation.md << 'EOF'
 # Lesson 02: Anchor Tags & Navigation
 
 ## Learning Objectives
@@ -122,4 +121,3 @@ Using `<ul>`/`<li>` for navigation isn't required by the browser to function, bu
 3. Give the target element a unique `id`, then link to it using `href="#that-id"`.
 
 </details>
-EOF

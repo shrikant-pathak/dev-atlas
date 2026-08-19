@@ -1,4 +1,3 @@
-cat > cheatsheet.md << 'EOF'
 # 📄 Cheat Sheet — Text & Content Elements
 
 ## Headings
@@ -66,4 +65,3 @@ Rule: never skip levels; choose by structure, not visual size.
 | `<pre>` | Preserve exact whitespace/formatting |
 
 **Never** use `<br>` for paragraph spacing — use `<p>` + CSS instead.
-EOF

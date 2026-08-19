@@ -1,4 +1,3 @@
-cat > interview.md << 'EOF'
 # Interview Questions — Text & Content Elements
 
 ## Beginner
@@ -18,4 +17,3 @@ cat > interview.md << 'EOF'
 - Why is `<mark>` considered semantic rather than purely visual, unlike using CSS to highlight text?
 - When would `<hr>` be semantically incorrect to use, even if you want a visual dividing line?
 - Explain the difference between `<code>`, `<kbd>`, and `<samp>`, with an example of when each is appropriate.
-EOF

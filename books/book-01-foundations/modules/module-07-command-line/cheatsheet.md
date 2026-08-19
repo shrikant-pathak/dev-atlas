@@ -1,4 +1,3 @@
-cat > cheatsheet.md << 'EOF'
 # 📄 Cheat Sheet — Command Line
 
 ## Navigation
@@ -68,4 +67,3 @@ cat > cheatsheet.md << 'EOF'
 | `npm install -g pkg` | Install globally |
 | `npm uninstall pkg` | Remove a dependency |
 | `npm update` | Update dependencies |
-EOF

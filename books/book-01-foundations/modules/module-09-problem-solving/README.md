@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Module 09: Problem Solving
 
 > **Book:** Book 01 — Foundations
@@ -46,4 +45,3 @@ This final module of Book 01 shifts from tools and infrastructure to the core me
 
 **Previous module:** [Module 08 — Git Basics](../module-08-git-basics/README.md)
 **Next:** 🎉 Book 01 complete — on to Book 02 (HTML)
-EOF

@@ -1,4 +1,3 @@
-cat > lesson-06-iframes-embedding.md << 'EOF'
 # Lesson 06: iframes & Embedding Third-Party Content
 
 ## Learning Objectives
@@ -125,4 +124,3 @@ Before moving to Module 04, you should be able to:
 - [ ] Embed third-party content via `<iframe>` with appropriate security attributes
 
 **Next up:** Module 04 — Forms & User Input
-EOF

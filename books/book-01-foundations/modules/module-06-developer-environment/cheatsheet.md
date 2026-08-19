@@ -1,4 +1,3 @@
-cat > cheatsheet.md << 'EOF'
 # 📄 Cheat Sheet — Developer Environment
 
 ## VS Code Shortcuts
@@ -61,4 +60,3 @@ cat > cheatsheet.md << 'EOF'
 | `public/` / `assets/` | Static files (images, fonts) |
 | `node_modules/` | Installed dependencies (never edited directly) |
 | `.env` | Environment variables/secrets |
-EOF

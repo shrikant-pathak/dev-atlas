@@ -1,4 +1,3 @@
-cat > exercises.md << 'EOF'
 # Exercise Set — Command Line
 
 ## Easy
@@ -27,4 +26,3 @@ cat > exercises.md << 'EOF'
 
 ## Bonus
 - [ ] Research and explain what `xargs` does, and rewrite the example `find . -name "*.js" | xargs grep -l "useState"` in your own words.
-EOF

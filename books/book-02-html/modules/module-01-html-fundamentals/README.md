@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Module 01: HTML Fundamentals
 
 > **Book:** Book 02 — HTML
@@ -46,4 +45,3 @@ This is where you start writing real, structural web technology. This module cov
 - [ ] Comfortable answering questions in `interview.md`
 
 **Next module:** Module 02 — Text & Content Elements
-EOF

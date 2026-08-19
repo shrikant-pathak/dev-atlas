@@ -1,4 +1,3 @@
-cat > exercises.md << 'EOF'
 # Exercise Set — Developer Environment
 
 ## Easy
@@ -26,4 +25,3 @@ cat > exercises.md << 'EOF'
 
 ## Bonus
 - [ ] Research and try installing "Oh My Zsh" (or an equivalent) to customize your terminal prompt with useful information like your current Git branch.
-EOF

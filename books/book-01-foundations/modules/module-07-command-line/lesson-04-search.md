@@ -1,4 +1,3 @@
-cat > lesson-04-search.md << 'EOF'
 # Lesson 04: Search
 
 ## Learning Objectives
@@ -80,4 +79,3 @@ find . -mtime -2
 3. It sends the output of one command as the input to the next command, allowing multiple commands to be chained together into a single, more powerful operation.
 
 </details>
-EOF

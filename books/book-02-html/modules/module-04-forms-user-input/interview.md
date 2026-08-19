@@ -1,4 +1,3 @@
-cat > interview.md << 'EOF'
 # Interview Questions — Forms & User Input
 
 ## Beginner
@@ -18,4 +17,3 @@ cat > interview.md << 'EOF'
 - Explain why a login form should never use `method="GET"`.
 - Walk through what happens, step by step, when a form with `enctype="multipart/form-data"` submits a file.
 - Why does `placeholder` text not qualify as an accessible label?
-EOF

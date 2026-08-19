@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Module 03: Links, Images & Media
 
 > **Book:** Book 02 — HTML
@@ -47,4 +46,3 @@ This module covers everything involved in connecting pages together and embeddin
 
 **Previous module:** [Module 02 — Text & Content Elements](../module-02-text-content-elements/README.md)
 **Next module:** Module 04 — Forms & User Input
-EOF

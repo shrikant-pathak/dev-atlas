@@ -1,4 +1,3 @@
-cat > quiz.md << 'EOF'
 # Quiz — HTML Fundamentals
 
 ## Multiple Choice
@@ -50,4 +49,3 @@ cat > quiz.md << 'EOF'
 **Coding Question 2:** `&copy;`
 
 </details>
-EOF

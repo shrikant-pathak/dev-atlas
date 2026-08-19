@@ -1,4 +1,3 @@
-cat > lesson-01-introduction-to-html.md << 'EOF'
 # Lesson 01: Introduction to HTML
 
 ## Learning Objectives
@@ -86,4 +85,3 @@ HTML was created by Tim Berners-Lee in 1991 alongside the World Wide Web itself 
 3. Structurally sound and fully readable, but visually plain (default browser styles) and non-interactive.
 
 </details>
-EOF

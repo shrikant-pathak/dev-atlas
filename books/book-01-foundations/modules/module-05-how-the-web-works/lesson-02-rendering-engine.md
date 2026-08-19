@@ -1,4 +1,3 @@
-cat > lesson-02-rendering-engine.md << 'EOF'
 # Lesson 02: Rendering Engine
 
 ## Learning Objectives
@@ -70,4 +69,3 @@ Open DevTools → Performance tab → record while interacting with a page → o
 3. Because changes affecting layout can force the browser to repeat the layout and paint steps repeatedly, and doing this too often or inefficiently causes visible stutter/lag on the page.
 
 </details>
-EOF

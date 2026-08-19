@@ -1,4 +1,3 @@
-cat > lesson-04-pseudocode.md << 'EOF'
 # Lesson 04: Pseudocode
 
 ## Learning Objectives
@@ -95,4 +94,3 @@ Technical interviews frequently ask candidates to "talk through your approach" o
 3. It checks every number from 2 up to (but not including) the number itself, to see if any of them evenly divide it (which would mean it's not prime).
 
 </details>
-EOF

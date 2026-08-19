@@ -1,4 +1,3 @@
-cat > lesson-05-building-full-semantic-page-layout.md << 'EOF'
 # Lesson 05: Building a Full Semantic Page Layout
 
 ## Learning Objectives
@@ -151,4 +150,3 @@ Before moving to Module 07, you should be able to:
 - [ ] Build a complete, correctly structured semantic page layout from scratch
 
 **Next up:** Module 07 — Accessibility (a11y) & SEO Fundamentals
-EOF

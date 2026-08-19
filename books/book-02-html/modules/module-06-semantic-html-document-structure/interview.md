@@ -1,4 +1,3 @@
-cat > interview.md << 'EOF'
 # Interview Questions — Semantic HTML & Document Structure
 
 ## Beginner
@@ -18,4 +17,3 @@ cat > interview.md << 'EOF'
 - Can an `<article>` contain `<section>` elements? Can a `<section>` contain `<article>` elements? Give an example of each.
 - Why might a `<section>` with no heading be a sign of incorrect element choice?
 - Walk through how you'd structure a blog homepage using this module's elements, explaining your reasoning for each choice.
-EOF

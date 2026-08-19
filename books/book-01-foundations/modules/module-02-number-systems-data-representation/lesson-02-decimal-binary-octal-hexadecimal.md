@@ -2542,4 +2542,3 @@ In the next lesson, you will learn how computers perform calculations using bina
 - Binary division
 - Carry and borrow operations
 - How processors perform arithmetic internally
-

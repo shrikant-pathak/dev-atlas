@@ -1,4 +1,3 @@
-cat > lesson-04-meta-tags-deep-dive.md << 'EOF'
 # Lesson 04: Meta Tags Deep Dive
 
 ## Learning Objectives
@@ -113,4 +112,3 @@ Twitter/X uses its own, similar (but separate) tag set, though it commonly falls
 3. It tells search engines not to index this page in search results and not to follow any links found on it — useful for private or admin pages that shouldn't appear in search.
 
 </details>
-EOF

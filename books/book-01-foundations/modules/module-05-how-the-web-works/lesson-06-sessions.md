@@ -1,4 +1,3 @@
-cat > lesson-06-sessions.md << 'EOF'
 # Lesson 06: Sessions
 
 ## Learning Objectives
@@ -65,4 +64,3 @@ Open DevTools → Application tab → Cookies → look for a cookie often named 
 3. Token-based authentication typically doesn't require server-side storage, making it easier to scale across multiple servers without needing shared session storage.
 
 </details>
-EOF

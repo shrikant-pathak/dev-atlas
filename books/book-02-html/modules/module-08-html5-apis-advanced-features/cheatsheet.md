@@ -1,4 +1,3 @@
-cat > cheatsheet.md << 'EOF'
 # 📄 Cheat Sheet — HTML5 APIs & Advanced Features
 
 ## Canvas vs. SVG
@@ -59,4 +58,3 @@ Custom, reusable elements — the native precursor to framework components (Reac
 ## Validation
 
 **validator.w3.org** — checks HTML against the official spec; catches errors browsers silently "fix."
-EOF

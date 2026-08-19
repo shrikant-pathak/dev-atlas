@@ -2354,4 +2354,3 @@ You can now:
 - Understand the boot process.
 - Explain the purpose of kernels, shells, and file systems.
 - Recognize the importance of virtualization and containers at a foundational level.
-

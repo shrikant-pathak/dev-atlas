@@ -1,4 +1,3 @@
-cat > interview.md << 'EOF'
 # Interview Questions — HTML5 APIs & Advanced Features
 
 ## Beginner
@@ -18,4 +17,3 @@ cat > interview.md << 'EOF'
 - Explain why requesting geolocation on page load (rather than on user action) is considered poor practice.
 - What are Web Components, and how do they conceptually relate to frameworks like React?
 - Why does HTML validation matter even though browsers automatically "fix" malformed markup?
-EOF

@@ -1,4 +1,3 @@
-cat > lesson-06-seo-fundamentals-for-html.md << 'EOF'
 # Lesson 06: SEO Fundamentals for HTML
 
 ## Learning Objectives
@@ -141,4 +140,3 @@ Before moving to Module 08, you should be able to:
 - [ ] Apply the full HTML-level SEO checklist to any page you build going forward
 
 **Next up:** Module 08 — HTML5 APIs & Advanced Features
-EOF

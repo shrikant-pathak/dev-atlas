@@ -1,4 +1,3 @@
-cat > lesson-05-permissions.md << 'EOF'
 # Lesson 05: Permissions
 
 ## Learning Objectives
@@ -98,4 +97,3 @@ ls -l deploy.sh                # -rwxr--r--  (now executable by owner)
 3. `chmod +x filename`
 
 </details>
-EOF

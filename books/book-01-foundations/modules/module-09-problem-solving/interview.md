@@ -1,4 +1,3 @@
-cat > interview.md << 'EOF'
 # Interview Questions — Problem Solving
 
 ## Beginner
@@ -18,4 +17,3 @@ cat > interview.md << 'EOF'
 - Why might two algorithms that both produce correct results still be considered meaningfully different in quality?
 - Explain "rubber duck debugging" and why articulating a problem out loud often helps solve it.
 - How would you debug an intermittent bug that you can't reliably reproduce?
-EOF

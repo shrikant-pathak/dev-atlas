@@ -1,4 +1,3 @@
-cat > exercises.md << 'EOF'
 # Exercise Set — Accessibility & SEO Fundamentals
 
 ## Easy
@@ -27,4 +26,3 @@ cat > exercises.md << 'EOF'
 
 ## Bonus
 - [ ] Try navigating a real website using only your keyboard (Tab, Enter, no mouse) and note any places where focus gets lost or unclear.
-EOF

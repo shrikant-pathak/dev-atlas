@@ -1,4 +1,3 @@
-cat > lesson-07-pull-request.md << 'EOF'
 # Lesson 07: Pull Request
 
 ## Learning Objectives
@@ -87,4 +86,3 @@ Before moving to Module 09, you should be able to:
 - [ ] Walk through the full Pull Request lifecycle
 
 **Next up:** Module 09 — Problem Solving
-EOF

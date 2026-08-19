@@ -1,4 +1,3 @@
-cat > exercises.md << 'EOF'
 # Exercise Set — Semantic HTML & Document Structure
 
 ## Easy
@@ -26,4 +25,3 @@ cat > exercises.md << 'EOF'
 
 ## Bonus
 - [ ] Research how screen readers announce "landmarks" (header, nav, main, footer) and explain, in your own words, why this matters for real users navigating a page without sight.
-EOF

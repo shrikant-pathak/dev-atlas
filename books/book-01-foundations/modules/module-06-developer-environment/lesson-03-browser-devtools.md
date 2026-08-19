@@ -1,4 +1,3 @@
-cat > lesson-03-browser-devtools.md << 'EOF'
 # Lesson 03: Browser DevTools
 
 ## Learning Objectives
@@ -72,4 +71,3 @@ document.body.style.backgroundColor = "lightblue"; // live-edit the page
 3. A breakpoint pauses JavaScript execution at a specific line, letting you inspect variable values at that moment; set in the Sources panel.
 
 </details>
-EOF

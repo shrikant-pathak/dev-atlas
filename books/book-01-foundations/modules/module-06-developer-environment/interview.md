@@ -1,4 +1,3 @@
-cat > interview.md << 'EOF'
 # Interview Questions — Developer Environment
 
 ## Beginner
@@ -18,4 +17,3 @@ cat > interview.md << 'EOF'
 - Why might a team enforce consistent file structure conventions across a codebase, beyond personal preference?
 - What's the difference between disabling and uninstalling a VS Code extension, and when would you choose each?
 - Explain the role of `package.json` in a Node.js-based project (at a conceptual level, even before deep-diving into it in later books).
-EOF

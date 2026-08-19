@@ -1,4 +1,3 @@
-cat > lesson-03-common-mistakes-anti-patterns.md << 'EOF'
 # Lesson 03: Common Mistakes & Anti-Patterns
 
 ## Learning Objectives
@@ -155,4 +154,3 @@ A quick before/after applying this lesson's checklist:
 3. The W3C Markup Validator and Lighthouse's Accessibility audit (both from Module 07/08).
 
 </details>
-EOF

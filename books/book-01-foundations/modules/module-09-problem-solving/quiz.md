@@ -1,4 +1,3 @@
-cat > quiz.md << 'EOF'
 # Quiz — Problem Solving
 
 ## Multiple Choice
@@ -59,5 +58,3 @@ END FUNCTION
 **Coding Question 2:** The bug is that `n` is never decremented inside the loop, causing an infinite loop. Fix: add `SET n TO n - 1` inside the `WHILE` loop.
 
 </details>
-EOF
-

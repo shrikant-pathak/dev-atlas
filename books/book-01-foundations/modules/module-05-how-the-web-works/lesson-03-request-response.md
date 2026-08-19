@@ -1,4 +1,3 @@
-cat > lesson-03-request-response.md << 'EOF'
 # Lesson 03: Request / Response
 
 ## Learning Objectives
@@ -70,4 +69,3 @@ Open DevTools → Network tab → reload any real website → observe the full w
 3. Browsers block rendering on CSS to avoid briefly showing unstyled content (a flash of unstyled content, or FOUC) before styles are applied.
 
 </details>
-EOF

@@ -1,4 +1,3 @@
-cat > lesson-01-why-accessibility-matters.md << 'EOF'
 # Lesson 01: Why Accessibility Matters
 
 ## Learning Objectives
@@ -68,4 +67,3 @@ Beyond the ethical case, many countries have legal accessibility requirements fo
 3. Any reasonable example: a broken arm limiting mouse use, a loud environment requiring captions instead of audio, bright sunlight making low-contrast text hard to read, a slow internet connection making heavy pages effectively "inaccessible."
 
 </details>
-EOF

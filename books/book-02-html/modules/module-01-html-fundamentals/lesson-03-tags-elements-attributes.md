@@ -1,4 +1,3 @@
-cat > lesson-03-tags-elements-attributes.md << 'EOF'
 # Lesson 03: Tags, Elements & Attributes
 
 ## Learning Objectives
@@ -113,4 +112,3 @@ This single example contains: paired elements (`div`, `h2`, `p`, `em`, `a`), a v
 3. The tags are improperly nested — `<strong>` was opened after `<p>` but closed after `</p>`, instead of being closed before `</p>` in proper "last opened, first closed" order.
 
 </details>
-EOF

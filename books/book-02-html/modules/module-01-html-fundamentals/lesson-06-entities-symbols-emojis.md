@@ -1,4 +1,3 @@
-cat > lesson-06-entities-symbols-emojis.md << 'EOF'
 # Lesson 06: HTML Entities, Symbols & Emojis
 
 ## Learning Objectives
@@ -119,4 +118,3 @@ Before moving to Module 02, you should be able to:
 - [ ] Use HTML entities for reserved characters
 
 **Next up:** Module 02 — Text & Content Elements
-EOF

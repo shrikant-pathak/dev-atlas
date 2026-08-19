@@ -1,4 +1,3 @@
-cat > lesson-02-header-nav-footer.md << 'EOF'
 # Lesson 02: `<header>`, `<nav>`, `<footer>`
 
 ## Learning Objectives
@@ -146,4 +145,3 @@ This nesting is entirely valid and, in fact, the correct semantic pattern — ea
 3. Copyright/legal info, related links, contact details, or (for an `<article>`'s own footer) author bio or tags related specifically to that content.
 
 </details>
-EOF

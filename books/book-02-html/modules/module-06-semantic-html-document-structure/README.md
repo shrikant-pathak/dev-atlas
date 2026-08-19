@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Module 06: Semantic HTML & Document Structure
 
 > **Book:** Book 02 — HTML
@@ -46,4 +45,3 @@ This module is where every semantic principle from earlier in the book culminate
 
 **Previous module:** [Module 05 — Tables & Structured Data](../module-05-tables-structured-data/README.md)
 **Next module:** Module 07 — Accessibility (a11y) & SEO Fundamentals
-EOF

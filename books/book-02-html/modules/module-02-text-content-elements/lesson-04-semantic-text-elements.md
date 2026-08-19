@@ -1,4 +1,3 @@
-cat > lesson-04-semantic-text-elements.md << 'EOF'
 # Lesson 04: Semantic Text Elements
 
 ## Learning Objectives
@@ -101,4 +100,3 @@ You will *not* use every one of these elements in every project — but knowing 
 3. It provides a standardized, machine-readable date/time format that browsers and search engines can reliably parse, regardless of how casually or locally the visible text is formatted.
 
 </details>
-EOF

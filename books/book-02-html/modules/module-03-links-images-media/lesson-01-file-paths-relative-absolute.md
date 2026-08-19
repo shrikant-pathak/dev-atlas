@@ -1,4 +1,3 @@
-cat > lesson-01-file-paths-relative-absolute.md << 'EOF'
 # Lesson 01: File Paths (Relative vs. Absolute)
 
 ## Learning Objectives
@@ -107,4 +106,3 @@ A path starting with `/` is relative to the website's *root*, not the current fi
 3. Because that path only exists on the developer's own machine — a deployed server has an entirely different file system structure, so that exact path won't exist there.
 
 </details>
-EOF

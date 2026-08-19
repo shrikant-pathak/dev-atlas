@@ -1,4 +1,3 @@
-cat > lesson-06-form-validation-attributes.md << 'EOF'
 # Lesson 06: Form Validation Attributes
 
 ## Learning Objectives
@@ -142,4 +141,3 @@ Before moving to Module 05, you should be able to:
 - [ ] Apply HTML5 validation attributes, while understanding they're not a substitute for server-side validation
 
 **Next up:** Module 05 — Tables & Structured Data
-EOF

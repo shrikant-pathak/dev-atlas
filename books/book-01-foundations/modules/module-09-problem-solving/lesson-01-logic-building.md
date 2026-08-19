@@ -1,6 +1,3 @@
-cd ~/Developer/dev-atlas/books/book-01-foundations/modules/module-09-problem-solving
-
-cat > lesson-01-logic-building.md << 'EOF'
 # Lesson 01: Logic Building
 
 ## Learning Objectives
@@ -71,4 +68,3 @@ A common mistake beginners make is jumping straight into syntax without first be
 3. Selection (a conditional check).
 
 </details>
-EOF

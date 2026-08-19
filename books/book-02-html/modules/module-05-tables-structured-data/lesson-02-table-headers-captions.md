@@ -1,4 +1,3 @@
-cat > lesson-02-table-headers-captions.md << 'EOF'
 # Lesson 02: Table Headers & Captions
 
 ## Learning Objectives
@@ -123,4 +122,3 @@ None of these are strictly required for a table to render — but they're the se
 3. Accessibility: screen readers can navigate directly to headers or announce the caption for context before the data. Styling: CSS can reliably target these sections without fragile "nth row" positional selectors.
 
 </details>
-EOF

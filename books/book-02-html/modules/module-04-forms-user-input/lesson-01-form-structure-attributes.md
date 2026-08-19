@@ -1,4 +1,3 @@
-cat > lesson-01-form-structure-attributes.md << 'EOF'
 # Lesson 01: Form Structure & Attributes
 
 ## Learning Objectives
@@ -111,4 +110,3 @@ This maps directly back to Book 01's REST conventions — GET requests should be
 3. It enables file uploads to be correctly transmitted as part of the form submission.
 
 </details>
-EOF

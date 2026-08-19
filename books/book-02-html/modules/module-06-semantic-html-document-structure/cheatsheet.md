@@ -1,4 +1,3 @@
-cat > cheatsheet.md << 'EOF'
 # 📄 Cheat Sheet — Semantic HTML & Document Structure
 
 ## Core Semantic Elements
@@ -42,4 +41,3 @@ Semantic relevance, not visual position. Primary nav in a sidebar is still `<nav
 ## When to Still Use `<div>`
 
 When no semantic element genuinely fits — purely a generic wrapper for styling/scripting.
-EOF

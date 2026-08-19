@@ -1,4 +1,3 @@
-cat > lesson-01-browser.md << 'EOF'
 # Lesson 01: Browser
 
 ## Learning Objectives
@@ -68,4 +67,3 @@ Different engines can render the same HTML/CSS slightly differently, or support 
 3. Firefox uses the Gecko rendering engine and the SpiderMonkey JavaScript engine.
 
 </details>
-EOF

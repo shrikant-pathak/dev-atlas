@@ -1,4 +1,3 @@
-cat > cheatsheet.md << 'EOF'
 # 📄 Cheat Sheet — Real-World Project & Best Practices
 
 ## Style Conventions
@@ -43,4 +42,3 @@ site/
 - [ ] Tables used appropriately with `<th scope>` and `<caption>`
 - [ ] Unique `<title>`/description, Open Graph tags
 - [ ] Passes W3C Validator + Lighthouse Accessibility audit
-EOF

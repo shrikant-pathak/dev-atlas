@@ -1,4 +1,3 @@
-cat > lesson-01-navigation.md << 'EOF'
 # Lesson 01: Navigation
 
 ## Learning Objectives
@@ -88,4 +87,3 @@ cd -                              # jump back to books/book-01-foundations
 3. It auto-completes the file or folder name you're typing, saving time and reducing typos.
 
 </details>
-EOF

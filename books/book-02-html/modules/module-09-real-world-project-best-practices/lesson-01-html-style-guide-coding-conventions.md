@@ -1,4 +1,3 @@
-cat > lesson-01-html-style-guide-coding-conventions.md << 'EOF'
 # Lesson 01: HTML Style Guide & Coding Conventions
 
 ## Learning Objectives
@@ -142,4 +141,3 @@ This is worth stating explicitly: for most of these choices (2 vs. 4 spaces, exa
 3. Prettier (a VS Code extension covered in Book 01, Module 06).
 
 </details>
-EOF

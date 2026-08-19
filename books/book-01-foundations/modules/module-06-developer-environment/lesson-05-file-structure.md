@@ -1,4 +1,3 @@
-cat > lesson-05-file-structure.md << 'EOF'
 # Lesson 05: File Structure
 
 ## Learning Objectives
@@ -89,4 +88,3 @@ Before moving to Module 07, you should be able to:
 - [ ] Organize a basic project with sensible file structure and naming
 
 **Next up:** Module 07 — Command Line
-EOF

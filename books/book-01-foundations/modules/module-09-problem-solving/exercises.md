@@ -1,4 +1,3 @@
-cat > exercises.md << 'EOF'
 # Exercise Set — Problem Solving
 
 ## Easy
@@ -26,4 +25,3 @@ cat > exercises.md << 'EOF'
 
 ## Bonus
 - [ ] Research and briefly explain what "Big O notation" is used for, and why it matters when comparing two algorithms that both solve the same problem correctly.
-EOF

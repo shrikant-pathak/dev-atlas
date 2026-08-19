@@ -1,4 +1,3 @@
-cat > interview.md << 'EOF'
 # Interview Questions — Real-World Project & Best Practices
 
 ## Beginner
@@ -18,4 +17,3 @@ cat > interview.md << 'EOF'
 - What later technologies (covered in future books) solve HTML's lack of native templating, and how do they relate conceptually?
 - If you inherited a real project with inconsistent naming conventions and indentation, how would you approach fixing it without breaking anything?
 - Explain how the concepts in this module tie together everything from earlier modules in Book 02.
-EOF

@@ -1,4 +1,3 @@
-cat > lesson-02-files.md << 'EOF'
 # Lesson 02: Files
 
 ## Learning Objectives
@@ -78,4 +77,3 @@ rm draft-backup.txt                      # delete the backup
 3. Because `rm` typically deletes files permanently and immediately, without moving them to a recoverable trash/recycle bin first.
 
 </details>
-EOF

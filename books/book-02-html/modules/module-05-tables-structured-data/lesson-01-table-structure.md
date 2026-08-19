@@ -1,4 +1,3 @@
-cat > lesson-01-table-structure.md << 'EOF'
 # Lesson 01: Table Structure
 
 ## Learning Objectives
@@ -145,4 +144,3 @@ This might *look* identical with enough CSS styling, but loses all the semantic/
 3. Yes — the first cell in a data row can be a `<th>` to label that entire row (e.g., "Revenue" labeling a row of quarterly figures), just as top-row `<th>` cells label columns.
 
 </details>
-EOF

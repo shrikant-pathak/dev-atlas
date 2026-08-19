@@ -1,4 +1,3 @@
-cat > interview.md << 'EOF'
 # Interview Questions — Links, Images & Media
 
 ## Beginner
@@ -18,4 +17,3 @@ cat > interview.md << 'EOF'
 - Walk through how the browser decides which image to load when using `srcset` and `sizes`.
 - What does the `sandbox` attribute on an `<iframe>` do, and why might a site block itself from being iframed elsewhere?
 - Why does `alt=""` (empty but present) differ from omitting the `alt` attribute entirely?
-EOF

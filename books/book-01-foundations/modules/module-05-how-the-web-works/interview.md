@@ -1,4 +1,3 @@
-cat > interview.md << 'EOF'
 # Interview Questions — How the Web Works
 
 ## Beginner
@@ -18,4 +17,3 @@ cat > interview.md << 'EOF'
 - Compare session-based authentication with token-based (JWT) authentication — what are the tradeoffs?
 - How does cache invalidation typically work for static assets in a production web application?
 - Explain how a page load involves many separate HTTP requests, and how browsers optimize loading them.
-EOF

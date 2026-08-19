@@ -1,4 +1,3 @@
-cat > lesson-03-main-section-article.md << 'EOF'
 # Lesson 03: `<main>`, `<section>`, `<article>`
 
 ## Learning Objectives
@@ -137,4 +136,3 @@ Not every grouping of content is a `<section>` — recall Module 01's rule: `<di
 3. Yes to both: a long article can be broken into thematic `<section>`s; a "Latest Posts" `<section>` can contain multiple standalone `<article>` elements.
 
 </details>
-EOF

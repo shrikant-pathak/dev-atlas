@@ -1,4 +1,3 @@
-cat > lesson-04-static-vs-dynamic-websites.md << 'EOF'
 # Lesson 04: Static vs. Dynamic Websites
 
 ## Learning Objectives
@@ -76,4 +75,3 @@ Understanding the pure static vs. dynamic distinction now makes these more advan
 3. Because dynamic content (like a user's data or live inventory) needs to be stored and retrieved somewhere reliably, which is exactly what a database is for.
 
 </details>
-EOF
