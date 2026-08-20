@@ -65,7 +65,23 @@ Deliverables:
 
 ---
 
-# 🔲 Module 02 — Colors, Units & Typography
+# ✅ Module 02 — Colors, Units & Typography
+**Status:** Complete
+
+## Lessons
+- [x] Color Formats (hex, RGB, HSL)
+- [x] CSS Units (px, em, rem, %, vw, vh)
+- [x] Typography & Fonts
+- [x] Web Fonts & @font-face
+- [x] Text Styling Properties
+- [x] CSS Icons
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -115,7 +131,7 @@ Deliverables:
 
 # Completion Checklist
 - [x] Module 01 — CSS Fundamentals
-- [ ] Module 02 — Colors, Units & Typography
+- [x] Module 02 — Colors, Units & Typography
 - [ ] Module 03 — The Box Model
 - [ ] Module 04 — Selectors & Combinators
 - [ ] Module 05 — Positioning & Layout Fundamentals
