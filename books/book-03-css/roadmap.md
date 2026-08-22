@@ -85,7 +85,25 @@ Deliverables:
 
 ---
 
-# 🔲 Module 03 — The Box Model
+# ✅ Module 03 — The Box Model
+**Status:** Complete
+
+## Lessons
+- [x] Box Model Fundamentals
+- [x] Margin, Padding, Border
+- [x] Box-Sizing
+- [x] Outline
+- [x] Borders, Rounded Corners & Border Images
+- [x] List Styling
+- [x] Table Styling
+- [x] object-fit & object-position
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -132,7 +150,7 @@ Deliverables:
 # Completion Checklist
 - [x] Module 01 — CSS Fundamentals
 - [x] Module 02 — Colors, Units & Typography
-- [ ] Module 03 — The Box Model
+- [x] Module 03 — The Box Model
 - [ ] Module 04 — Selectors & Combinators
 - [ ] Module 05 — Positioning & Layout Fundamentals
 - [ ] Module 06 — Flexbox
