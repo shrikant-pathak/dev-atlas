@@ -107,7 +107,23 @@ Deliverables:
 
 ---
 
-# 🔲 Module 04 — Selectors & Combinators
+# ✅ Module 04 — Selectors & Combinators
+**Status:** Complete
+
+## Lessons
+- [x] Pseudo-classes
+- [x] Pseudo-elements
+- [x] Attribute Selectors
+- [x] Combinators
+- [x] Specificity Deep Dive
+- [x] !important & Link States
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -151,7 +167,7 @@ Deliverables:
 - [x] Module 01 — CSS Fundamentals
 - [x] Module 02 — Colors, Units & Typography
 - [x] Module 03 — The Box Model
-- [ ] Module 04 — Selectors & Combinators
+- [x] Module 04 — Selectors & Combinators
 - [ ] Module 05 — Positioning & Layout Fundamentals
 - [ ] Module 06 — Flexbox
 - [ ] Module 07 — CSS Grid
