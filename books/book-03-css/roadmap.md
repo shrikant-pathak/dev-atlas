@@ -127,7 +127,24 @@ Deliverables:
 
 ---
 
-# 🔲 Module 05 — Positioning & Layout Fundamentals
+# ✅ Module 05 — Positioning & Layout Fundamentals
+**Status:** Complete
+
+## Lessons
+- [x] Display Property
+- [x] Position Property
+- [x] Z-index & Stacking Context
+- [x] Overflow
+- [x] Float & Clear
+- [x] Inline-block & Align
+- [x] Max/Min-width & Height
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -168,7 +185,7 @@ Deliverables:
 - [x] Module 02 — Colors, Units & Typography
 - [x] Module 03 — The Box Model
 - [x] Module 04 — Selectors & Combinators
-- [ ] Module 05 — Positioning & Layout Fundamentals
+- [x] Module 05 — Positioning & Layout Fundamentals
 - [ ] Module 06 — Flexbox
 - [ ] Module 07 — CSS Grid
 - [ ] Module 08 — Responsive Design
