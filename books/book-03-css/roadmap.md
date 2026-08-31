@@ -148,7 +148,21 @@ Deliverables:
 
 ---
 
-# 🔲 Module 06 — Flexbox
+# ✅ Module 06 — Flexbox
+**Status:** Complete
+
+## Lessons
+- [x] Flexbox Intro
+- [x] Flex Container Properties
+- [x] Flex Item Properties
+- [x] Flexbox Common Patterns
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -186,7 +200,7 @@ Deliverables:
 - [x] Module 03 — The Box Model
 - [x] Module 04 — Selectors & Combinators
 - [x] Module 05 — Positioning & Layout Fundamentals
-- [ ] Module 06 — Flexbox
+- [x] Module 06 — Flexbox
 - [ ] Module 07 — CSS Grid
 - [ ] Module 08 — Responsive Design
 - [ ] Module 09 — Backgrounds, Borders & Visual Effects
