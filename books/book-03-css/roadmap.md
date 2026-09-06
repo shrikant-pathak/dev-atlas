@@ -224,7 +224,24 @@ Deliverables:
 
 ---
 
-# 🔲 Module 10 — Practical UI Components & Patterns
+# ✅ Module 10 — Practical UI Components & Patterns
+**Status:** Complete
+
+## Lessons
+- [x] Navigation Bars
+- [x] Dropdowns & Tooltips
+- [x] Buttons Styling
+- [x] Image Gallery & Sprites
+- [x] Pagination & Multi-Column
+- [x] Forms Styling
+- [x] Image Modal / Lightbox
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -250,7 +267,7 @@ Deliverables:
 - [x] Module 07 — CSS Grid
 - [x] Module 08 — Responsive Design
 - [x] Module 09 — Backgrounds, Borders & Visual Effects
-- [ ] Module 10 — Practical UI Components & Patterns
+- [x] Module 10 — Practical UI Components & Patterns
 - [ ] Module 11 — Transitions, Transforms & Animations
 - [ ] Module 12 — Advanced & Modern CSS
 - [ ] Module 13 — CSS Architecture & Real-World Project
