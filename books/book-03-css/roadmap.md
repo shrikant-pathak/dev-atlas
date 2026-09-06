@@ -285,7 +285,22 @@ Deliverables:
 
 ---
 
-# 🔲 Module 13 — CSS Architecture & Real-World Project
+# ✅ Module 13 — CSS Architecture & Real-World Project
+**Status:** Complete
+
+## Lessons
+- [x] Naming Conventions & BEM
+- [x] Organizing Large Stylesheets
+- [x] CSS Performance
+- [x] Sass/SCSS Preview
+- [x] Capstone Project — Styling Your HTML Portfolio
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -302,7 +317,7 @@ Deliverables:
 - [x] Module 10 — Practical UI Components & Patterns
 - [x] Module 11 — Transitions, Transforms & Animations
 - [x] Module 12 — Advanced & Modern CSS
-- [ ] Module 13 — CSS Architecture & Real-World Project
+- [x] Module 13 — CSS Architecture & Real-World Project
 - [ ] Full curriculum review pass (check for gaps before calling Book 03 complete)
 
 ---
