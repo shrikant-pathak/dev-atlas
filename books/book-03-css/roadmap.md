@@ -205,7 +205,22 @@ Deliverables:
 
 ---
 
-# 🔲 Module 09 — Backgrounds, Borders & Visual Effects
+# ✅ Module 09 — Backgrounds, Borders & Visual Effects
+**Status:** Complete
+
+## Lessons
+- [x] Backgrounds & Gradients
+- [x] box-shadow & text-shadow
+- [x] Text Effects
+- [x] CSS Counters
+- [x] Opacity
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -234,7 +249,7 @@ Deliverables:
 - [x] Module 06 — Flexbox
 - [x] Module 07 — CSS Grid
 - [x] Module 08 — Responsive Design
-- [ ] Module 09 — Backgrounds, Borders & Visual Effects
+- [x] Module 09 — Backgrounds, Borders & Visual Effects
 - [ ] Module 10 — Practical UI Components & Patterns
 - [ ] Module 11 — Transitions, Transforms & Animations
 - [ ] Module 12 — Advanced & Modern CSS
