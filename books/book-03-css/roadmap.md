@@ -318,7 +318,7 @@ Deliverables:
 - [x] Module 11 — Transitions, Transforms & Animations
 - [x] Module 12 — Advanced & Modern CSS
 - [x] Module 13 — CSS Architecture & Real-World Project
-- [ ] Full curriculum review pass (check for gaps before calling Book 03 complete)
+- [x] Full curriculum review pass (check for gaps before calling Book 03 complete)
 
 ---
 
