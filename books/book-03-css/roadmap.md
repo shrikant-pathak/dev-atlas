@@ -245,7 +245,22 @@ Deliverables:
 
 ---
 
-# 🔲 Module 11 — Transitions, Transforms & Animations
+# ✅ Module 11 — Transitions, Transforms & Animations
+**Status:** Complete
+
+## Lessons
+- [x] CSS Transitions
+- [x] 2D Transforms
+- [x] 3D Transforms
+- [x] Keyframe Animations
+- [x] Scroll Snap
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -268,7 +283,7 @@ Deliverables:
 - [x] Module 08 — Responsive Design
 - [x] Module 09 — Backgrounds, Borders & Visual Effects
 - [x] Module 10 — Practical UI Components & Patterns
-- [ ] Module 11 — Transitions, Transforms & Animations
+- [x] Module 11 — Transitions, Transforms & Animations
 - [ ] Module 12 — Advanced & Modern CSS
 - [ ] Module 13 — CSS Architecture & Real-World Project
 - [ ] Full curriculum review pass (check for gaps before calling Book 03 complete)
