@@ -264,7 +264,24 @@ Deliverables:
 
 ---
 
-# 🔲 Module 12 — Advanced & Modern CSS
+# ✅ Module 12 — Advanced & Modern CSS
+**Status:** Complete
+
+## Lessons
+- [x] Custom Properties (CSS Variables)
+- [x] calc(), clamp(), min(), max()
+- [x] Container Queries
+- [x] :has() and Modern Selectors
+- [x] CSS Nesting
+- [x] @property and Accessibility Patterns
+- [x] shape-outside and Masking
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -284,7 +301,7 @@ Deliverables:
 - [x] Module 09 — Backgrounds, Borders & Visual Effects
 - [x] Module 10 — Practical UI Components & Patterns
 - [x] Module 11 — Transitions, Transforms & Animations
-- [ ] Module 12 — Advanced & Modern CSS
+- [x] Module 12 — Advanced & Modern CSS
 - [ ] Module 13 — CSS Architecture & Real-World Project
 - [ ] Full curriculum review pass (check for gaps before calling Book 03 complete)
 
