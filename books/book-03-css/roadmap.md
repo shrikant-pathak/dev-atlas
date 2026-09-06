@@ -186,7 +186,22 @@ Deliverables:
 
 ---
 
-# 🔲 Module 08 — Responsive Design
+# ✅ Module 08 — Responsive Design
+**Status:** Complete
+
+## Lessons
+- [x] Media Queries (& the Viewport Meta Tag)
+- [x] Mobile-First Approach
+- [x] Responsive Typography
+- [x] Responsive Images & Video
+- [x] aspect-ratio
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -218,7 +233,7 @@ Deliverables:
 - [x] Module 05 — Positioning & Layout Fundamentals
 - [x] Module 06 — Flexbox
 - [x] Module 07 — CSS Grid
-- [ ] Module 08 — Responsive Design
+- [x] Module 08 — Responsive Design
 - [ ] Module 09 — Backgrounds, Borders & Visual Effects
 - [ ] Module 10 — Practical UI Components & Patterns
 - [ ] Module 11 — Transitions, Transforms & Animations
