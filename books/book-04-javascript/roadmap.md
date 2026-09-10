@@ -60,7 +60,26 @@ Deliverables:
 
 ---
 
-# 🔲 Module 02 — Functions, Scope & Objects
+# ✅ Module 02 — Functions, Scope & Objects
+**Status:** Complete
+
+## Lessons
+- [x] Lesson 01 — Function Declarations, Expressions, Arrow Functions
+- [x] Lesson 02 — Scope and Hoisting
+- [x] Lesson 03 — Closures
+- [x] Lesson 04 — Higher-Order Functions
+- [x] Lesson 05 — The `this` Keyword
+- [x] Lesson 06 — IIFE
+- [x] Lesson 07 — Object Literals and Methods
+- [x] Lesson 08 — Prototypes and Inheritance
+- [x] Lesson 09 — Object.create, Getters and Setters
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -98,7 +117,7 @@ Deliverables:
 
 # Completion Checklist
 - [x] Module 01 — JavaScript Fundamentals
-- [ ] Module 02 — Functions, Scope & Objects
+- [x] Module 02 — Functions, Scope & Objects
 - [ ] Module 03 — Strings, Numbers, Dates & Collections
 - [ ] Module 04 — DOM, Events & Navigation
 - [ ] Module 05 — Asynchronous JavaScript & APIs
