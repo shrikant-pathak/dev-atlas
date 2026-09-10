@@ -104,7 +104,22 @@ Deliverables:
 
 ---
 
-# 🔲 Module 04 — DOM, Events & Navigation
+# ✅ Module 04 — DOM, Events & Navigation
+**Status:** Complete
+
+## Lessons
+- [x] Lesson 01 — Selecting DOM Elements
+- [x] Lesson 02 — DOM Traversal
+- [x] Lesson 03 — Event Handling and Delegation
+- [x] Lesson 04 — Forms and Validation
+- [x] Lesson 05 — Script Loading — defer & async
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -136,7 +151,7 @@ Deliverables:
 - [x] Module 01 — JavaScript Fundamentals
 - [x] Module 02 — Functions, Scope & Objects
 - [x] Module 03 — Strings, Numbers, Dates & Collections
-- [ ] Module 04 — DOM, Events & Navigation
+- [x] Module 04 — DOM, Events & Navigation
 - [ ] Module 05 — Asynchronous JavaScript & APIs
 - [ ] Module 06 — ES6+ Modern Features
 - [ ] Module 07 — Errors, Debugging & Browser Storage
