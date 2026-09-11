@@ -142,7 +142,24 @@ Deliverables:
 
 ---
 
-# 🔲 Module 06 — ES6+ Modern Features
+# ✅ Module 06 — ES6+ Modern Features
+**Status:** Complete
+
+## Lessons
+- [x] ES6 Modules (import/export)
+- [x] Classes and Inheritance
+- [x] Optional Chaining & Nullish Coalescing
+- [x] RegExp Basics
+- [x] ES Version History
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
+
+---
 
 ---
 
@@ -168,7 +185,7 @@ Deliverables:
 - [x] Module 03 — Strings, Numbers, Dates & Collections
 - [x] Module 04 — DOM, Events & Navigation
 - [x] Module 05 — Asynchronous JavaScript & APIs
-- [ ] Module 06 — ES6+ Modern Features
+- [x] Module 06 — ES6+ Modern Features
 - [ ] Module 07 — Errors, Debugging & Browser Storage
 - [ ] Module 08 — Typed Arrays, Graphics & Legacy Web Tech
 - [ ] Module 09 — Patterns, Style & Tooling
