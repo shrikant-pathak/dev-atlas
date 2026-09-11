@@ -123,7 +123,22 @@ Deliverables:
 
 ---
 
-# 🔲 Module 05 — Asynchronous JavaScript & APIs
+# ✅ Module 05 — Asynchronous JavaScript & APIs
+**Status:** Complete
+
+## Lessons
+- [x] Lesson 01 — Callbacks
+- [x] Lesson 02 — Promises
+- [x] Lesson 03 — async/await
+- [x] Lesson 04 — Fetch API
+- [x] Lesson 05 — Working with JSON and REST
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -152,7 +167,7 @@ Deliverables:
 - [x] Module 02 — Functions, Scope & Objects
 - [x] Module 03 — Strings, Numbers, Dates & Collections
 - [x] Module 04 — DOM, Events & Navigation
-- [ ] Module 05 — Asynchronous JavaScript & APIs
+- [x] Module 05 — Asynchronous JavaScript & APIs
 - [ ] Module 06 — ES6+ Modern Features
 - [ ] Module 07 — Errors, Debugging & Browser Storage
 - [ ] Module 08 — Typed Arrays, Graphics & Legacy Web Tech
