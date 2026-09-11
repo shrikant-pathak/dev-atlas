@@ -163,7 +163,25 @@ Deliverables:
 
 ---
 
-# 🔲 Module 07 — Errors, Debugging & Browser Storage
+# ✅ Module 07 — Errors, Debugging & Browser Storage
+**Status:** Complete
+
+## Lessons
+- [x] Try/Catch and Custom Errors
+- [x] Debugging with DevTools
+- [x] Local and Session Storage
+- [x] Cookies
+- [x] Timers: setTimeout/setInterval
+- [x] Window API Basics
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
+
+---
 
 ---
 
@@ -186,7 +204,7 @@ Deliverables:
 - [x] Module 04 — DOM, Events & Navigation
 - [x] Module 05 — Asynchronous JavaScript & APIs
 - [x] Module 06 — ES6+ Modern Features
-- [ ] Module 07 — Errors, Debugging & Browser Storage
+- [x] Module 07 — Errors, Debugging & Browser Storage
 - [ ] Module 08 — Typed Arrays, Graphics & Legacy Web Tech
 - [ ] Module 09 — Patterns, Style & Tooling
 - [ ] Module 10 — JS Architecture & Real-World Project
