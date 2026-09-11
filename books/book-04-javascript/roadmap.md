@@ -223,7 +223,20 @@ Deliverables:
 
 ---
 
-# 🔲 Module 10 — JS Architecture & Capstone Project
+# ✅ Module 10 — JS Architecture & Capstone Project
+
+**Status:** Complete
+
+## Lessons
+- [x] Organizing Large Vanilla JS Apps
+- [x] Capstone Project
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -237,7 +250,7 @@ Deliverables:
 - [x] Module 07 — Errors, Debugging & Browser Storage
 - [x] Module 08 — Typed Arrays, Graphics & Legacy Web Tech
 - [x] Module 09 — Patterns, Style & Tooling
-- [ ] Module 10 — JS Architecture & Real-World Project
+- [x] Module 10 — JS Architecture & Real-World Project
 - [ ] Full curriculum review pass (check for gaps before calling Book 04 complete)
 
 ---
