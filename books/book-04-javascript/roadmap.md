@@ -161,8 +161,6 @@ Deliverables:
 
 ---
 
----
-
 # ✅ Module 07 — Errors, Debugging & Browser Storage
 **Status:** Complete
 
@@ -180,8 +178,6 @@ Deliverables:
 - [x] Exercises
 - [x] Interview Questions
 - [x] Cheatsheet
-
----
 
 ---
 
@@ -205,9 +201,25 @@ Deliverables:
 
 ---
 
----
+# ✅ Module 09 — Patterns, Style & Tooling
 
-# 🔲 Module 09 — Patterns, Style & Tooling
+**Status:** Complete
+
+## Lessons
+- [x] Design Patterns — Module, Observer, Factory, Singleton
+- [x] Proxy and Reflect
+- [x] Naming Conventions & Style Guide
+- [x] npm and Package Management
+- [x] Bundlers Overview
+- [x] Linting with ESLint
+- [x] Intro to Unit Testing
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -224,7 +236,7 @@ Deliverables:
 - [x] Module 06 — ES6+ Modern Features
 - [x] Module 07 — Errors, Debugging & Browser Storage
 - [x] Module 08 — Typed Arrays, Graphics & Legacy Web Tech
-- [ ] Module 09 — Patterns, Style & Tooling
+- [x] Module 09 — Patterns, Style & Tooling
 - [ ] Module 10 — JS Architecture & Real-World Project
 - [ ] Full curriculum review pass (check for gaps before calling Book 04 complete)
 
