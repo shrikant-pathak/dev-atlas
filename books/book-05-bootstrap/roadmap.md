@@ -62,7 +62,24 @@ Deliverables:
 
 ---
 
-# 🔲 Module 02 — Layout & Grid System
+# ✅ Module 02 — Layout & Grid System
+**Status:** Complete
+
+## Lessons
+- [x] Containers
+- [x] Breakpoints
+- [x] The Grid System
+- [x] Columns & Column Sizing
+- [x] Gutters
+- [x] Stacked-to-Horizontal Patterns
+- [x] Z-index & Layout Utilities
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -108,7 +125,7 @@ Deliverables:
 
 # Completion Checklist
 - [x] Module 01 — Bootstrap Fundamentals
-- [ ] Module 02 — Layout & Grid System
+- [x] Module 02 — Layout & Grid System
 - [ ] Module 03 — Typography & Content
 - [ ] Module 04 — Colors, Backgrounds & Spacing
 - [ ] Module 05 — Forms
