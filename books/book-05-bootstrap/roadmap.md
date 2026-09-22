@@ -103,7 +103,23 @@ Deliverables:
 
 ---
 
-# 🔲 Module 04 — Colors, Backgrounds & Spacing
+# ✅ Module 04 — Colors, Backgrounds & Spacing
+
+**Status:** Complete
+
+## Lessons
+- [x] Theme Colors and the Color System
+- [x] Text and Background Colors
+- [x] Borders
+- [x] The Spacing Scale
+- [x] Sizing Utilities
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -143,7 +159,7 @@ Deliverables:
 - [x] Module 01 — Bootstrap Fundamentals
 - [x] Module 02 — Layout & Grid System
 - [x] Module 03 — Typography & Content
-- [ ] Module 04 — Colors, Backgrounds & Spacing
+- [x] Module 04 — Colors, Backgrounds & Spacing
 - [ ] Module 05 — Forms
 - [ ] Module 06 — Core Components I
 - [ ] Module 07 — Core Components II
