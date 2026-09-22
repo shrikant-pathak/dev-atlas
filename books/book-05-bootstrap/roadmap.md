@@ -179,7 +179,7 @@ Deliverables:
 - [x] Module 02 — Layout & Grid System
 - [x] Module 03 — Typography & Content
 - [x] Module 04 — Colors, Backgrounds & Spacing
-- [ ] Module 05 — Forms
+- [x] Module 05 — Forms
 - [ ] Module 06 — Core Components I
 - [ ] Module 07 — Core Components II
 - [ ] Module 08 — Interactive Components
