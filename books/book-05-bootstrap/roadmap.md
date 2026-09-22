@@ -123,7 +123,26 @@ Deliverables:
 
 ---
 
-# 🔲 Module 05 — Forms
+# ✅ Module 05 — Forms
+
+**Status:** Complete
+
+## Lessons
+- [x] Form Controls
+- [x] Select Menus
+- [x] Checks and Radios
+- [x] Range Inputs
+- [x] Input Groups
+- [x] Floating Labels
+- [x] Form Layout
+- [x] Form Validation
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
