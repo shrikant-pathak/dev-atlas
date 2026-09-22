@@ -146,7 +146,25 @@ Deliverables:
 
 ---
 
-# 🔲 Module 06 — Core Components I
+# ✅ Module 06 — Core Components I
+
+**Status:** Complete
+
+## Lessons
+- [x] Buttons
+- [x] Button Groups
+- [x] Badges
+- [x] Alerts
+- [x] Cards
+- [x] Close Button
+- [x] Progress Bars
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -180,7 +198,7 @@ Deliverables:
 - [x] Module 03 — Typography & Content
 - [x] Module 04 — Colors, Backgrounds & Spacing
 - [x] Module 05 — Forms
-- [ ] Module 06 — Core Components I
+- [x] Module 06 — Core Components I
 - [ ] Module 07 — Core Components II
 - [ ] Module 08 — Interactive Components
 - [ ] Module 09 — Utility Classes, Helpers & Accessibility
