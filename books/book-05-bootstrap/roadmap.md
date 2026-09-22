@@ -43,7 +43,22 @@ Ready for Tailwind
 
 ---
 
-# 🔲 Module 01 — Bootstrap Fundamentals
+# ✅ Module 01 — Bootstrap Fundamentals
+**Status:** Complete
+
+## Lessons
+- [x] What is Bootstrap & Why Use It
+- [x] CDN vs npm Setup
+- [x] Project Structure & Starter Template
+- [x] Reboot & Browser Support
+- [x] Bootstrap's JavaScript: Data Attributes vs Programmatic API
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -92,7 +107,7 @@ Ready for Tailwind
 ---
 
 # Completion Checklist
-- [ ] Module 01 — Bootstrap Fundamentals
+- [x] Module 01 — Bootstrap Fundamentals
 - [ ] Module 02 — Layout & Grid System
 - [ ] Module 03 — Typography & Content
 - [ ] Module 04 — Colors, Backgrounds & Spacing
