@@ -168,7 +168,25 @@ Deliverables:
 
 ---
 
-# 🔲 Module 07 — Core Components II
+# ✅ Module 07 — Core Components II
+
+**Status:** Complete
+
+## Lessons
+- [x] Navbar
+- [x] Nav and Tabs
+- [x] Breadcrumb
+- [x] Pagination
+- [x] Dropdowns
+- [x] Offcanvas
+- [x] List Groups
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -199,7 +217,7 @@ Deliverables:
 - [x] Module 04 — Colors, Backgrounds & Spacing
 - [x] Module 05 — Forms
 - [x] Module 06 — Core Components I
-- [ ] Module 07 — Core Components II
+- [x] Module 07 — Core Components II
 - [ ] Module 08 — Interactive Components
 - [ ] Module 09 — Utility Classes, Helpers & Accessibility
 - [ ] Module 10 — Dark Mode & Color Modes
