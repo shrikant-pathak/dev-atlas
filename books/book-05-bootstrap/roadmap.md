@@ -190,7 +190,27 @@ Deliverables:
 
 ---
 
-# 🔲 Module 08 — Interactive Components
+# ✅ Module 08 — Interactive Components
+
+**Status:** Complete
+
+## Lessons
+- [x] Modal
+- [x] Accordion
+- [x] Collapse
+- [x] Carousel
+- [x] Tooltips
+- [x] Popovers
+- [x] Toasts
+- [x] Scrollspy
+- [x] Spinners
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -218,7 +238,7 @@ Deliverables:
 - [x] Module 05 — Forms
 - [x] Module 06 — Core Components I
 - [x] Module 07 — Core Components II
-- [ ] Module 08 — Interactive Components
+- [x] Module 08 — Interactive Components
 - [ ] Module 09 — Utility Classes, Helpers & Accessibility
 - [ ] Module 10 — Dark Mode & Color Modes
 - [ ] Module 11 — Customization, Sass Build & RTL
