@@ -214,7 +214,27 @@ Deliverables:
 
 ---
 
-# 🔲 Module 09 — Utility Classes, Helpers & Accessibility
+# ✅ Module 09 — Utility Classes, Helpers and Accessibility
+
+**Status:** Complete
+
+## Lessons
+- [x] Flex Utilities
+- [x] Display and Position Utilities
+- [x] Object Fit and Ratio
+- [x] Stacks and Stretched Link
+- [x] Text Truncation and Visually Hidden
+- [x] Clearfix and Vertical Rule
+- [x] Colored Links and Icon Link
+- [x] Focus Ring
+- [x] Accessibility in Bootstrap
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -239,7 +259,7 @@ Deliverables:
 - [x] Module 06 — Core Components I
 - [x] Module 07 — Core Components II
 - [x] Module 08 — Interactive Components
-- [ ] Module 09 — Utility Classes, Helpers & Accessibility
+- [x] Module 09 — Utility Classes, Helpers and Accessibility
 - [ ] Module 10 — Dark Mode & Color Modes
 - [ ] Module 11 — Customization, Sass Build & RTL
 - [ ] Module 12 — Icons & Real-World Project
