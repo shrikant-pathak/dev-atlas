@@ -238,7 +238,22 @@ Deliverables:
 
 ---
 
-# 🔲 Module 10 — Dark Mode & Color Modes
+# ✅ Module 10 — Dark Mode and Color Modes
+
+**Status:** Complete
+
+## Lessons
+- [x] `data-bs-theme` Basics
+- [x] `prefers-color-scheme` and System Detection
+- [x] Building Custom Color Modes
+- [x] JS Theme Toggler
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -260,7 +275,7 @@ Deliverables:
 - [x] Module 07 — Core Components II
 - [x] Module 08 — Interactive Components
 - [x] Module 09 — Utility Classes, Helpers and Accessibility
-- [ ] Module 10 — Dark Mode & Color Modes
+- [x] Module 10 — Dark Mode and Color Modes
 - [ ] Module 11 — Customization, Sass Build & RTL
 - [ ] Module 12 — Icons & Real-World Project
 - [ ] Full curriculum review pass (check for gaps before calling Book 05 complete)
