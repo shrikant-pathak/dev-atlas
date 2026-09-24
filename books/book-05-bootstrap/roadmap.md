@@ -257,7 +257,25 @@ Deliverables:
 
 ---
 
-# 🔲 Module 11 — Customization, Sass Build & RTL
+# ✅ Module 11 — Customization, Sass Build and RTL
+
+**Status:** Complete
+
+## Lessons
+- [x] npm and Sass Build Setup
+- [x] Sass Variables and Maps
+- [x] Compiling a Custom Bootstrap Build
+- [x] CSS Custom Properties in Bootstrap
+- [x] Building a Custom Theme
+- [x] Optimizing Bundle Size
+- [x] RTL Support
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -276,7 +294,7 @@ Deliverables:
 - [x] Module 08 — Interactive Components
 - [x] Module 09 — Utility Classes, Helpers and Accessibility
 - [x] Module 10 — Dark Mode and Color Modes
-- [ ] Module 11 — Customization, Sass Build & RTL
+- [x] Module 11 — Customization, Sass Build and RTL
 - [ ] Module 12 — Icons & Real-World Project
 - [ ] Full curriculum review pass (check for gaps before calling Book 05 complete)
 
