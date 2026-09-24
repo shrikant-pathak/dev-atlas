@@ -279,7 +279,21 @@ Deliverables:
 
 ---
 
-# 🔲 Module 12 — Icons & Real-World Project
+# ✅ Module 12 — Icons and Real-World Project
+
+**Status:** Complete
+
+## Lessons
+- [x] Bootstrap Icons
+- [x] Integrating Bootstrap JS with Vanilla JS
+- [x] Capstone Project
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -295,7 +309,7 @@ Deliverables:
 - [x] Module 09 — Utility Classes, Helpers and Accessibility
 - [x] Module 10 — Dark Mode and Color Modes
 - [x] Module 11 — Customization, Sass Build and RTL
-- [ ] Module 12 — Icons & Real-World Project
+- [x] Module 12 — Icons and Real-World Project
 - [ ] Full curriculum review pass (check for gaps before calling Book 05 complete)
 
 ---
