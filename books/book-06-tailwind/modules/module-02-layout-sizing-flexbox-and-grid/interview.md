@@ -1,0 +1,19 @@
+# Module 02 Interview Questions — Layout, Sizing, Flexbox & Grid
+
+**Q1: Explain the practical difference between `hidden`, `invisible`, and `sr-only`, and give a real use case for each.**
+`hidden` (`display: none`) removes an element from layout entirely — other elements reflow to fill its space; use it for content that's genuinely not needed right now (a collapsed accordion panel). `invisible` (`visibility: hidden`) hides an element visually but preserves its layout space — useful when you need a placeholder to keep other elements from shifting, like a tooltip that reserves space before it's shown. `sr-only` visually hides content while keeping it in the accessibility tree — used for descriptive text that sighted users don't need but screen reader users do, like a label on an icon-only button.
+
+**Q2: When would you choose Grid over Flexbox for a layout, and can you give an example where you'd use both together?**
+Grid suits layouts needing explicit control over both rows and columns simultaneously — a photo gallery, dashboard, or magazine layout. Flexbox suits one-dimensional arrangements — a single row of nav links or a stacked form. A common combined pattern: Grid defines a page's overall three-column structure (sidebar/main/rail), while Flexbox is used inside the main content area to align a header row's title and action button.
+
+**Q3: A developer built a fixed sidebar and main content area using `w-64` and `w-full` inside a flex container, but the layout breaks when the sidebar's width changes. What's the more robust approach?**
+Use `flex-none` on the sidebar (with its fixed width) and `flex-1` on the main content, rather than percentage-based widths. `flex-1` automatically fills whatever space remains after the fixed-width sidebar is accounted for, so the layout adapts correctly if the sidebar's width is ever changed, without any manual recalculation.
+
+**Q4: What's the difference between `gap-4` and `space-x-4`, and when would you reach for one over the other?**
+`gap-4` uses the native CSS `gap` property and only works inside a `flex` or `grid` container — it adds space between all items uniformly without touching margins. `space-x-4` adds margin to every child except the first, and works on any sibling elements regardless of display mode. In practice, prefer `gap-*` for flex/grid layouts (it's cleaner and doesn't fight with existing margins); reach for `space-x-*`/`space-y-*` only when you need spacing between siblings that aren't inside a flex/grid container.
+
+**Q5: Why might `order-*` be a poor solution for reordering content across breakpoints on an accessibility-sensitive page, and what should you do instead when the reordering is purely cosmetic?**
+`order-*` only changes visual order — screen readers and search engines still follow DOM order, so a screen reader user could encounter content in a different sequence than what's visually shown, causing confusion. It's fine for purely cosmetic reordering that doesn't affect comprehension (e.g., swapping which of two equally-weighted columns appears first on mobile), but content whose reading order matters for understanding should be written in the correct order in the HTML itself, not reordered visually with CSS.
+
+**Q6: What does `subgrid` solve, and what's a concrete scenario where you'd reach for it?**
+`subgrid` lets a nested grid inherit its parent's row/column tracks directly, instead of defining its own independent tracks. A concrete scenario: a row of cards, each containing its own internal grid (image, title, description) — without `subgrid`, each card's internal elements would size independently and likely misalign vertically across cards; with `subgrid`, every card's internal grid locks to the same underlying tracks, keeping titles and descriptions aligned across the whole row.
