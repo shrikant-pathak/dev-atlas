@@ -50,7 +50,28 @@ Deliverables:
 
 ---
 
-# 🔲 Module 02 — Layout, Sizing, Flexbox & Grid
+# ✅ Module 02 — Layout, Sizing, Flexbox & Grid
+**Status:** Complete
+## Lessons
+- [x] Display and Visibility
+- [x] Padding, Margin, and Space Between
+- [x] Width, Height, and Size
+- [x] Min/Max Sizing and Container
+- [x] Position, Inset, and Z-Index
+- [x] Overflow, Aspect Ratio, and Object Fit
+- [x] Flexbox Basics
+- [x] Flex Sizing and Order
+- [x] Alignment, Justify, and Gap
+- [x] Grid Basics and Tracks
+- [x] Grid Spans, Placement, and Subgrid
+- [x] Centering and Common Layout Recipes
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -84,7 +105,7 @@ Deliverables:
 
 # Completion Checklist
 - [x] Module 01 — Tailwind Fundamentals & Setup
-- [ ] Module 02 — Layout, Sizing, Flexbox & Grid
+- [x] Module 02 — Layout, Sizing, Flexbox & Grid
 - [ ] Module 03 — Typography & Color System
 - [ ] Module 04 — Borders, Shadows & Visual Effects
 - [ ] Module 05 — Animations, States & Responsive Variants
