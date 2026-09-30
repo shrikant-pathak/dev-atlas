@@ -32,7 +32,21 @@ Ready for Git & GitHub
 
 ---
 
-# 🔲 Module 01 — Tailwind Fundamentals & Setup
+# ✅ Module 01 — Tailwind Fundamentals & Setup
+**Status:** Complete
+## Lessons
+- [x] Intro to Tailwind and Utility-First CSS
+- [x] Installing Tailwind (Vite, CLI, and CDN)
+- [x] CSS Entry Point and Project Structure
+- [x] How Tailwind Generates CSS
+- [x] Editor Setup, IntelliSense, and Prettier
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -69,7 +83,7 @@ Ready for Git & GitHub
 ---
 
 # Completion Checklist
-- [ ] Module 01 — Tailwind Fundamentals & Setup
+- [x] Module 01 — Tailwind Fundamentals & Setup
 - [ ] Module 02 — Layout, Sizing, Flexbox & Grid
 - [ ] Module 03 — Typography & Color System
 - [ ] Module 04 — Borders, Shadows & Visual Effects
