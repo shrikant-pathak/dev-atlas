@@ -97,7 +97,23 @@ Deliverables:
 
 ---
 
-# 🔲 Module 04 — Borders, Shadows & Visual Effects
+# ✅ Module 04 — Borders, Shadows & Visual Effects
+**Status:** Complete
+## Lessons
+- [x] Borders, Radius, and Dividers
+- [x] Outline and Ring
+- [x] Box and Text Shadows
+- [x] Opacity, Blend Modes, and Filters
+- [x] Masks and Backdrop Effects
+- [x] Transitions and Easing
+- [x] Transforms (2D and 3D)
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -125,7 +141,7 @@ Deliverables:
 - [x] Module 01 — Tailwind Fundamentals & Setup
 - [x] Module 02 — Layout, Sizing, Flexbox & Grid
 - [x] Module 03 — Typography & Color System
-- [ ] Module 04 — Borders, Shadows & Visual Effects
+- [x] Module 04 — Borders, Shadows & Visual Effects
 - [ ] Module 05 — Animations, States & Responsive Variants
 - [ ] Module 06 — Customization & Dark Mode
 - [ ] Module 07 — Building Components & Patterns
