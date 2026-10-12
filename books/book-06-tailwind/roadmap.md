@@ -117,7 +117,30 @@ Deliverables:
 
 ---
 
-# 🔲 Module 05 — Animations, States & Responsive Variants
+# ✅ Module 05 — Animations, States & Responsive Variants
+
+**Status:** Complete
+
+## Lessons
+
+- [x] Animations & Keyframes
+- [x] Scroll Behavior & Snap
+- [x] Starting Style & Entry Animations
+- [x] Hover, Focus & Active States
+- [x] Group & Peer Variants
+- [x] Has, Not, In & Nth Variants
+- [x] ARIA, Data & Attribute Variants
+- [x] Pseudo-elements & Placeholder Variants
+- [x] Responsive Breakpoints
+- [x] Container Queries
+
+Deliverables:
+
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -142,7 +165,7 @@ Deliverables:
 - [x] Module 02 — Layout, Sizing, Flexbox & Grid
 - [x] Module 03 — Typography & Color System
 - [x] Module 04 — Borders, Shadows & Visual Effects
-- [ ] Module 05 — Animations, States & Responsive Variants
+- [x] Module 05 — Animations, States & Responsive Variants
 - [ ] Module 06 — Customization & Dark Mode
 - [ ] Module 07 — Building Components & Patterns
 - [ ] Module 08 — Tailwind with Frameworks & Ecosystem
