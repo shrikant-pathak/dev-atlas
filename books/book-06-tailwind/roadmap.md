@@ -144,7 +144,29 @@ Deliverables:
 
 ---
 
-# 🔲 Module 06 — Customization & Dark Mode
+# ✅ Module 06 — Customization & Dark Mode
+
+**Status:** Complete
+
+## Lessons
+
+- [x] Dark Mode & Color Scheme
+- [x] The @theme Directive & Design Tokens
+- [x] Customizing Colors, Spacing & Fonts
+- [x] Arbitrary Values & Properties
+- [x] Custom Utilities with @utility
+- [x] Custom Variants with @custom-variant
+- [x] @layer, @apply & Base Styles
+- [x] @source, @plugin & Legacy Config
+- [x] Multi-theme & CSS Variables
+
+Deliverables:
+
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -166,7 +188,7 @@ Deliverables:
 - [x] Module 03 — Typography & Color System
 - [x] Module 04 — Borders, Shadows & Visual Effects
 - [x] Module 05 — Animations, States & Responsive Variants
-- [ ] Module 06 — Customization & Dark Mode
+- [x] Module 06 — Customization & Dark Mode
 - [ ] Module 07 — Building Components & Patterns
 - [ ] Module 08 — Tailwind with Frameworks & Ecosystem
 - [ ] Module 09 — Production, Accessibility & Real-World Project
