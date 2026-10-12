@@ -170,7 +170,28 @@ Deliverables:
 
 ---
 
-# 🔲 Module 07 — Building Components & Patterns
+# ✅ Module 07 — Building Components & Patterns
+
+**Status:** Complete
+
+## Lessons
+
+- [x] Buttons & Badges
+- [x] Cards
+- [x] Navbars & Responsive Menus
+- [x] Forms & Input Styling
+- [x] Modals with Dialog
+- [x] Dropdowns, Tabs & Accordions
+- [x] Tables, Lists & Alerts
+- [x] Extracting Components & Managing Repetition
+
+Deliverables:
+
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -189,7 +210,7 @@ Deliverables:
 - [x] Module 04 — Borders, Shadows & Visual Effects
 - [x] Module 05 — Animations, States & Responsive Variants
 - [x] Module 06 — Customization & Dark Mode
-- [ ] Module 07 — Building Components & Patterns
+- [x] Module 07 — Building Components & Patterns
 - [ ] Module 08 — Tailwind with Frameworks & Ecosystem
 - [ ] Module 09 — Production, Accessibility & Real-World Project
 - [ ] Full curriculum review pass
