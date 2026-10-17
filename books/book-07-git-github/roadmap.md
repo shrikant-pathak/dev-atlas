@@ -56,7 +56,26 @@ Ready for TypeScript
 
 ---
 
-# 🔲 Module 01 — Git Fundamentals & Setup
+# ✅ Module 01 — Git Fundamentals & Setup
+
+**Status:** Complete
+
+## Lessons
+- [x] Lesson 01 — Version Control and Why Git
+- [x] Lesson 02 — Snapshots and the Three States
+- [x] Lesson 03 — Installing Git on Windows, macOS, Linux and WSL
+- [x] Lesson 04 — First-Time Setup and Getting Help
+- [x] Lesson 05 — Init, Add, Commit and Status
+- [x] Lesson 06 — Removing, Moving and Cleaning Files
+- [x] Lesson 07 — Commit Messages and Conventional Commits
+- [x] Lesson 08 — .gitignore and Global Ignore
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -118,7 +137,7 @@ Ready for TypeScript
 
 # Completion Checklist
 
-- [ ] Module 01 — Git Fundamentals & Setup
+- [x] Module 01 — Git Fundamentals & Setup
 - [ ] Module 02 — Inspecting & Undoing Changes
 - [ ] Module 03 — Branching & Merging
 - [ ] Module 04 — Remotes & GitHub Basics
