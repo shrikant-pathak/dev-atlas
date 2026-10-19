@@ -79,7 +79,47 @@ Deliverables:
 
 ---
 
-# 🔲 Module 02 — Inspecting & Undoing Changes
+# ✅ Module 02 — Inspecting & Undoing Changes
+
+**Status:** Complete
+
+## Lessons
+- [x] Lesson 01 — Log Formatting, Filtering and Revision Ranges
+- [x] Lesson 02 — Diff, Show and External Diff Tools
+- [x] Lesson 03 — Searching History: Grep, Pickaxe and Blame
+- [x] Lesson 04 — Interactive Staging
+- [x] Lesson 05 — Restore and Unstaging
+- [x] Lesson 06 — Amending Commits
+- [x] Lesson 07 — Reset Demystified and Revert
+- [x] Lesson 08 — Reflog and Recovery
+- [x] Lesson 09 — Describe, Shortlog and Notes
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet# ✅ Module 02 — Inspecting & Undoing Changes
+
+**Status:** Complete
+
+## Lessons
+- [x] Lesson 01 — Log Formatting, Filtering and Revision Ranges
+- [x] Lesson 02 — Diff, Show and External Diff Tools
+- [x] Lesson 03 — Searching History: Grep, Pickaxe and Blame
+- [x] Lesson 04 — Interactive Staging
+- [x] Lesson 05 — Restore and Unstaging
+- [x] Lesson 06 — Amending Commits
+- [x] Lesson 07 — Reset Demystified and Revert
+- [x] Lesson 08 — Reflog and Recovery
+- [x] Lesson 09 — Describe, Shortlog and Notes
+
+Deliverables:
+- [x] Module README
+- [x] Quiz
+- [x] Exercises
+- [x] Interview Questions
+- [x] Cheatsheet
 
 ---
 
@@ -138,7 +178,7 @@ Deliverables:
 # Completion Checklist
 
 - [x] Module 01 — Git Fundamentals & Setup
-- [ ] Module 02 — Inspecting & Undoing Changes
+- [x] Module 02 — Inspecting & Undoing Changes
 - [ ] Module 03 — Branching & Merging
 - [ ] Module 04 — Remotes & GitHub Basics
 - [ ] Module 05 — Collaboration & Code Review
